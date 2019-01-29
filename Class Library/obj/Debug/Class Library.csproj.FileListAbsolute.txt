@@ -1,0 +1,6 @@
+H:\Team development project\Clothing website\Clothing website\Class Library\bin\Debug\Class Library.dll
+H:\Team development project\Clothing website\Clothing website\Class Library\bin\Debug\Class Library.pdb
+H:\Team development project\Clothing website\Clothing website\Class Library\obj\Debug\Class Library.csprojAssemblyReference.cache
+H:\Team development project\Clothing website\Clothing website\Class Library\obj\Debug\Class Library.csproj.CoreCompileInputs.cache
+H:\Team development project\Clothing website\Clothing website\Class Library\obj\Debug\Class Library.dll
+H:\Team development project\Clothing website\Clothing website\Class Library\obj\Debug\Class Library.pdb

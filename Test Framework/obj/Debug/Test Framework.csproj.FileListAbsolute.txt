@@ -1,0 +1,8 @@
+H:\Team development project\Clothing website\Clothing website\Test Framework\bin\Debug\Test Framework.dll
+H:\Team development project\Clothing website\Clothing website\Test Framework\bin\Debug\Test Framework.pdb
+H:\Team development project\Clothing website\Clothing website\Test Framework\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+H:\Team development project\Clothing website\Clothing website\Test Framework\obj\Debug\Test Framework.csprojAssemblyReference.cache
+H:\Team development project\Clothing website\Clothing website\Test Framework\obj\Debug\Test Framework.csproj.CoreCompileInputs.cache
+H:\Team development project\Clothing website\Clothing website\Test Framework\obj\Debug\Test Framework.csproj.CopyComplete
+H:\Team development project\Clothing website\Clothing website\Test Framework\obj\Debug\Test Framework.dll
+H:\Team development project\Clothing website\Clothing website\Test Framework\obj\Debug\Test Framework.pdb

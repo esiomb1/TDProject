@@ -1,0 +1,11 @@
+D:\DMU\OneDrive\Project Work\Project Work\BackOffice\bin\Debug\BackOffice.exe.config
+E:\content\04 Setting up Collaboration Tools\Project Work\BackOffice\bin\Debug\BackOffice.exe.config
+H:\Team development project\Clothing website\Clothing website\BackOffice\bin\Debug\BackOffice.exe.config
+H:\Team development project\Clothing website\Clothing website\BackOffice\bin\Debug\BackOffice.exe
+H:\Team development project\Clothing website\Clothing website\BackOffice\bin\Debug\BackOffice.pdb
+H:\Team development project\Clothing website\Clothing website\BackOffice\obj\Debug\BackOffice.csprojAssemblyReference.cache
+H:\Team development project\Clothing website\Clothing website\BackOffice\obj\Debug\BackOffice.Properties.Resources.resources
+H:\Team development project\Clothing website\Clothing website\BackOffice\obj\Debug\BackOffice.csproj.GenerateResource.cache
+H:\Team development project\Clothing website\Clothing website\BackOffice\obj\Debug\BackOffice.csproj.CoreCompileInputs.cache
+H:\Team development project\Clothing website\Clothing website\BackOffice\obj\Debug\BackOffice.exe
+H:\Team development project\Clothing website\Clothing website\BackOffice\obj\Debug\BackOffice.pdb
