@@ -63,6 +63,12 @@
     <Compile Include="tstPassengerCollection.cs" />
     <Compile Include="UnitTest9.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Class Library\ClassLibrary.csproj">
+      <Project>{30029452-BA29-46EB-B9F5-BBF30B1F03B3}</Project>
+      <Name>ClassLibrary</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
       <ItemGroup>

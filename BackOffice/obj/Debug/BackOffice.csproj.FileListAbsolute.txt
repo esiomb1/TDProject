@@ -9,3 +9,12 @@ H:\Team development project\Clothing website\Clothing website\BackOffice\obj\Deb
 H:\Team development project\Clothing website\Clothing website\BackOffice\obj\Debug\BackOffice.csproj.CoreCompileInputs.cache
 H:\Team development project\Clothing website\Clothing website\BackOffice\obj\Debug\BackOffice.exe
 H:\Team development project\Clothing website\Clothing website\BackOffice\obj\Debug\BackOffice.pdb
+H:\Documents\airline vs 3\BackOffice\bin\Debug\BackOffice.exe.config
+H:\Documents\airline vs 3\BackOffice\bin\Debug\BackOffice.exe
+H:\Documents\airline vs 3\BackOffice\bin\Debug\BackOffice.pdb
+H:\Documents\airline vs 3\BackOffice\obj\Debug\BackOffice.csprojAssemblyReference.cache
+H:\Documents\airline vs 3\BackOffice\obj\Debug\BackOffice.Properties.Resources.resources
+H:\Documents\airline vs 3\BackOffice\obj\Debug\BackOffice.csproj.GenerateResource.cache
+H:\Documents\airline vs 3\BackOffice\obj\Debug\BackOffice.csproj.CoreCompileInputs.cache
+H:\Documents\airline vs 3\BackOffice\obj\Debug\BackOffice.exe
+H:\Documents\airline vs 3\BackOffice\obj\Debug\BackOffice.pdb
