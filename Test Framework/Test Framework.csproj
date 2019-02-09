@@ -50,8 +50,18 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
-    <Compile Include="UnitTest1.cs" />
+    <Compile Include="tstBookingCollection.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="tstBooking.cs" />
+    <Compile Include="tstCustomer.cs" />
+    <Compile Include="tstCustomerCollection.cs" />
+    <Compile Include="tstFlight.cs" />
+    <Compile Include="tstFlightCollection.cs" />
+    <Compile Include="tstItinery.cs" />
+    <Compile Include="tstItineryCollection.cs" />
+    <Compile Include="tstPassenger.cs" />
+    <Compile Include="tstPassengerCollection.cs" />
+    <Compile Include="UnitTest9.cs" />
   </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
