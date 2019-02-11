@@ -18,3 +18,13 @@ H:\Documents\airline vs 3\BackOffice\obj\Debug\BackOffice.csproj.GenerateResourc
 H:\Documents\airline vs 3\BackOffice\obj\Debug\BackOffice.csproj.CoreCompileInputs.cache
 H:\Documents\airline vs 3\BackOffice\obj\Debug\BackOffice.exe
 H:\Documents\airline vs 3\BackOffice\obj\Debug\BackOffice.pdb
+H:\Desktop\Clothing Website\BackOffice\obj\Debug\BackOffice.csprojAssemblyReference.cache
+H:\Desktop\Clothing Website\BackOffice\obj\Debug\BackOffice.frmAddUser.resources
+H:\Desktop\Clothing Website\BackOffice\obj\Debug\BackOffice.frmChangePassword.resources
+H:\Desktop\Clothing Website\BackOffice\obj\Debug\BackOffice.frmMenu.resources
+H:\Desktop\Clothing Website\BackOffice\obj\Debug\BackOffice.frmSignIn.resources
+H:\Desktop\Clothing Website\BackOffice\obj\Debug\BackOffice.Properties.Resources.resources
+H:\Desktop\Clothing Website\BackOffice\obj\Debug\BackOffice.csproj.GenerateResource.cache
+H:\Desktop\Clothing Website\BackOffice\obj\Debug\BackOffice.csproj.CoreCompileInputs.cache
+H:\Desktop\Clothing Website\BackOffice\obj\Debug\BackOffice.exe
+H:\Desktop\Clothing Website\BackOffice\obj\Debug\BackOffice.pdb
