@@ -16,3 +16,13 @@ H:\Documents\airline vs 3\Test Framework\obj\Debug\Test Framework.csproj.CoreCom
 H:\Documents\airline vs 3\Test Framework\obj\Debug\Test Framework.csproj.CopyComplete
 H:\Documents\airline vs 3\Test Framework\obj\Debug\Test Framework.dll
 H:\Documents\airline vs 3\Test Framework\obj\Debug\Test Framework.pdb
+H:\Documents\airline vs 4\Test Framework\bin\Debug\Test Framework.dll
+H:\Documents\airline vs 4\Test Framework\bin\Debug\Test Framework.pdb
+H:\Documents\airline vs 4\Test Framework\bin\Debug\Class Library.dll
+H:\Documents\airline vs 4\Test Framework\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+H:\Documents\airline vs 4\Test Framework\bin\Debug\Class Library.pdb
+H:\Documents\airline vs 4\Test Framework\obj\Debug\Test Framework.csprojAssemblyReference.cache
+H:\Documents\airline vs 4\Test Framework\obj\Debug\Test Framework.csproj.CoreCompileInputs.cache
+H:\Documents\airline vs 4\Test Framework\obj\Debug\Test Framework.csproj.CopyComplete
+H:\Documents\airline vs 4\Test Framework\obj\Debug\Test Framework.dll
+H:\Documents\airline vs 4\Test Framework\obj\Debug\Test Framework.pdb

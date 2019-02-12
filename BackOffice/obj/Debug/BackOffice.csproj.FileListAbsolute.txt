@@ -28,3 +28,12 @@ H:\Desktop\Clothing Website\BackOffice\obj\Debug\BackOffice.csproj.GenerateResou
 H:\Desktop\Clothing Website\BackOffice\obj\Debug\BackOffice.csproj.CoreCompileInputs.cache
 H:\Desktop\Clothing Website\BackOffice\obj\Debug\BackOffice.exe
 H:\Desktop\Clothing Website\BackOffice\obj\Debug\BackOffice.pdb
+H:\Documents\airline vs 4\BackOffice\bin\Debug\BackOffice.exe.config
+H:\Documents\airline vs 4\BackOffice\bin\Debug\BackOffice.exe
+H:\Documents\airline vs 4\BackOffice\bin\Debug\BackOffice.pdb
+H:\Documents\airline vs 4\BackOffice\obj\Debug\BackOffice.csprojAssemblyReference.cache
+H:\Documents\airline vs 4\BackOffice\obj\Debug\BackOffice.Properties.Resources.resources
+H:\Documents\airline vs 4\BackOffice\obj\Debug\BackOffice.csproj.GenerateResource.cache
+H:\Documents\airline vs 4\BackOffice\obj\Debug\BackOffice.csproj.CoreCompileInputs.cache
+H:\Documents\airline vs 4\BackOffice\obj\Debug\BackOffice.exe
+H:\Documents\airline vs 4\BackOffice\obj\Debug\BackOffice.pdb
