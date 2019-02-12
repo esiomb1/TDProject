@@ -76,7 +76,7 @@ public class clsCart
     {
         get
         {
-            return m;
+            return price;
         }
      
     }

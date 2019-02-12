@@ -8,6 +8,7 @@ namespace Test_Framework
     [TestClass]
     public class tstCustomer
     {
+
         [TestMethod]
         public void InstanceOk()
         {
@@ -51,7 +52,7 @@ namespace Test_Framework
             Assert.AreEqual(ACustomer.CustomerNo, CustomerNo);
         }
 
-
+    
 
         [TestMethod]
         //used to test the presence of the Valid Method

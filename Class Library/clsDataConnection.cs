@@ -31,7 +31,7 @@ namespace Class_Library
         public clsDataConnection()
         {
             //GetConString("H:\\Desktop\\PM Car repo 9\\AppData\\CarBook.mdf");
-            GetConString(" H:\\Documents\\TDProjectDatabase\\TDDB.mdf");
+            GetConString("H:\\Desktop\\TDDB.mdf");
         }
        
         public clsDataConnection(string DBLocation)

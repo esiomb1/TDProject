@@ -23,5 +23,13 @@ namespace EliteAir
         {
             Response.Redirect("MYFlights.aspx");
         }
+
+        // fuction to show the list of airports that can be flown from and to 
+        void DisplayFlight()
+        {
+            // create an instance of the flight collection 
+            
+        }
+
     }
 }
