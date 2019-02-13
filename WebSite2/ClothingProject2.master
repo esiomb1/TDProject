@@ -1,0 +1,79 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="ClothingProject2.master.cs" Inherits="ClothingProject2" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style5 {
+            width: 1490px;
+        }
+        .auto-style9 {
+            width: 216px;
+        }
+        .auto-style10 {
+            width: 354px;
+        }
+        .auto-style11 {
+            width: 296px;
+        }
+        .auto-style13 {
+            width: 143px;
+        }
+        .auto-style15 {
+            width: 179px;
+        }
+        .auto-style16 {
+            width: 128px;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+    
+        <table class="auto-style5">
+            <tr>
+                <td colspan="5">Header content</td>
+                <td class="auto-style13">
+                    <asp:Button ID="btnSignUp" runat="server" Text="Sign Up" />
+                </td>
+                <td class="auto-style16">
+                    <asp:Button ID="btnLogin" runat="server" Text="Login" />
+                </td>
+            </tr>
+            <tr>
+                <td class="auto-style10">
+                    <asp:Button ID="btnHome" runat="server" Text="Home" Width="351px" />
+                </td>
+                <td class="auto-style11">
+                    <asp:Button ID="btnWomen" runat="server" Text="Women" Width="298px" />
+                </td>
+                <td class="auto-style9">
+                    <asp:Button ID="btnMen" runat="server" Text="Men" Width="218px" />
+                </td>
+                <td class="auto-style15">
+                    <asp:Button ID="btnAboutUs" runat="server" Text="About Us" Width="246px" />
+                </td>
+                <td colspan="3">
+                    <asp:Button ID="btnContactUs" runat="server" Text="Contact Us" Width="280px" />
+                </td>
+            </tr>
+            <tr>
+                <td colspan="7">
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    </asp:ContentPlaceHolder>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="7">Footer content</td>
+            </tr>
+        </table>
+    
+    </div>
+    </form>
+</body>
+</html>
