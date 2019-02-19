@@ -72,14 +72,7 @@ public class clsCart
         }
     }
 
-    public List<clsCartItem> Price
-    {
-        get
-        {
-            return price;
-        }
-     
-    }
+
     public List<clsCartItem> Products
     {
         get
@@ -123,15 +116,5 @@ public class clsCart
         //we could also do other things here such as adjust stock levels
     }
 
-
-    private decimal CalculateTotalPrice()
-    {
-        var totalPrice = 0m;
-        foreach (var product in Products)
-        {
-            totalPrice += Products.Price;
-        }
-        return totalPrice;
-    }
 
 }
