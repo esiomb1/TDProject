@@ -11,4 +11,9 @@ public partial class ClothingProject2 : System.Web.UI.MasterPage
     {
 
     }
+
+    protected void btnSignUp_Click(object sender, EventArgs e)
+    {
+
+    }
 }
