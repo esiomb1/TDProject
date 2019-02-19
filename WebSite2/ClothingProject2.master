@@ -1,4 +1,4 @@
-﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="ClothingProject2.master.cs" Inherits="ClothingProject2" %>
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="ClothingProject2.master.cs" Inherits="ClothingProject2" runat="server"%>
 
 <!DOCTYPE html>
 
@@ -7,27 +7,47 @@
     <title></title>
     <asp:ContentPlaceHolder id="head" runat="server">
     </asp:ContentPlaceHolder>
+   
     <style type="text/css">
         .auto-style5 {
             width: 1490px;
+            
         }
         .auto-style9 {
             width: 216px;
+            background-color: #666699;
         }
         .auto-style10 {
             width: 354px;
+            background-color: #666699;
         }
         .auto-style11 {
             width: 296px;
+            background-color: #666699;
         }
         .auto-style13 {
             width: 143px;
+            background-color: #003366;
         }
         .auto-style15 {
             width: 179px;
+            background-color: #666699;
         }
         .auto-style16 {
             width: 128px;
+            background-color: #003366;
+        }
+        .auto-style18 {
+            width: 352px;
+            color: #FFFFFF;
+            background-color: #003366;
+        }
+        .auto-style19 {
+            color: #FFFFFF;
+            background-color: #000099;
+        }
+        .auto-style20 {
+            background-color: #666699;
         }
     </style>
 </head>
@@ -37,9 +57,9 @@
     
         <table class="auto-style5">
             <tr>
-                <td colspan="5">Header content</td>
+                <td colspan="5" class="auto-style18">Header content</td>
                 <td class="auto-style13">
-                    <asp:Button ID="btnSignUp" runat="server" Text="Sign Up" />
+                    <asp:Button ID="btnSignUp" runat="server" Text="Sign Up" OnClick="btnSignUp_Click" />
                 </td>
                 <td class="auto-style16">
                     <asp:Button ID="btnLogin" runat="server" Text="Login" />
@@ -58,7 +78,7 @@
                 <td class="auto-style15">
                     <asp:Button ID="btnAboutUs" runat="server" Text="About Us" Width="246px" />
                 </td>
-                <td colspan="3">
+                <td colspan="3" class="auto-style20">
                     <asp:Button ID="btnContactUs" runat="server" Text="Contact Us" Width="280px" />
                 </td>
             </tr>
@@ -69,7 +89,7 @@
                 </td>
             </tr>
             <tr>
-                <td colspan="7">Footer content</td>
+                <td colspan="7" class="auto-style19">This is footer content</td>
             </tr>
         </table>
     

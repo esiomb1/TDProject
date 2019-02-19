@@ -8,3 +8,9 @@ H:\Documents\airline vs 4\Class Library\obj\Debug\ClassLibrary.csprojAssemblyRef
 H:\Documents\airline vs 4\Class Library\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
 H:\Documents\airline vs 4\Class Library\obj\Debug\Class Library.dll
 H:\Documents\airline vs 4\Class Library\obj\Debug\Class Library.pdb
+H:\Desktop\Clothing website 2\Class Library\bin\Debug\Class Library.dll
+H:\Desktop\Clothing website 2\Class Library\bin\Debug\Class Library.pdb
+H:\Desktop\Clothing website 2\Class Library\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
+H:\Desktop\Clothing website 2\Class Library\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+H:\Desktop\Clothing website 2\Class Library\obj\Debug\Class Library.dll
+H:\Desktop\Clothing website 2\Class Library\obj\Debug\Class Library.pdb

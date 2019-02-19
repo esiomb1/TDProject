@@ -11,4 +11,12 @@ public partial class Home : System.Web.UI.Page
     {
 
     }
+
+
+
+
+    protected void btnMensFashion_Click1(object sender, EventArgs e)
+    {
+        Response.Redirect("mens-clothing.aspx");
+    }
 }
