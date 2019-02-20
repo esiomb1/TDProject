@@ -54,6 +54,7 @@
     <Compile Include="clsItineraryCollection.cs" />
     <Compile Include="clsPassenger.cs" />
     <Compile Include="clsPassengerCollection.cs" />
+    <Compile Include="clsPhoneCustomer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

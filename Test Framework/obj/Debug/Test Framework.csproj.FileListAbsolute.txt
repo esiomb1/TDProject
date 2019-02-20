@@ -36,3 +36,13 @@ H:\Desktop\Clothing website 2\Test Framework\obj\Debug\Test Framework.csproj.Cor
 H:\Desktop\Clothing website 2\Test Framework\obj\Debug\Test Framework.csproj.CopyComplete
 H:\Desktop\Clothing website 2\Test Framework\obj\Debug\Test Framework.dll
 H:\Desktop\Clothing website 2\Test Framework\obj\Debug\Test Framework.pdb
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Team Development Project\Mobile E-commerce\Test Framework\obj\Debug\Test Framework.csprojAssemblyReference.cache
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Team Development Project\Mobile E-commerce\Test Framework\obj\Debug\Test Framework.csproj.CoreCompileInputs.cache
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Team Development Project\Mobile E-commerce\Test Framework\obj\Debug\Test Framework.dll
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Team Development Project\Mobile E-commerce\Test Framework\obj\Debug\Test Framework.pdb
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Team Development Project\Mobile E-commerce\Test Framework\bin\Debug\Test Framework.dll
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Team Development Project\Mobile E-commerce\Test Framework\bin\Debug\Test Framework.pdb
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Team Development Project\Mobile E-commerce\Test Framework\bin\Debug\Class Library.dll
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Team Development Project\Mobile E-commerce\Test Framework\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Team Development Project\Mobile E-commerce\Test Framework\bin\Debug\Class Library.pdb
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Team Development Project\Mobile E-commerce\Test Framework\obj\Debug\Test Framework.csproj.CopyComplete
