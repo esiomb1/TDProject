@@ -62,24 +62,24 @@
                     <asp:Button ID="btnSignUp" runat="server" Text="Sign Up" OnClick="btnSignUp_Click" />
                 </td>
                 <td class="auto-style16">
-                    <asp:Button ID="btnLogin" runat="server" Text="Login" />
+                    <asp:Button ID="btnLogin" runat="server" Text="Login" OnClick="btnLogin_Click" />
                 </td>
             </tr>
             <tr>
                 <td class="auto-style10">
-                    <asp:Button ID="btnHome" runat="server" Text="Home" Width="351px" />
+                    <asp:Button ID="btnHome" runat="server" Text="Home" Width="351px" OnClick="btnHome_Click" />
                 </td>
                 <td class="auto-style11">
-                    <asp:Button ID="btnWomen" runat="server" Text="Women" Width="298px" />
+                    <asp:Button ID="btnWomen" runat="server" Text="Women" Width="298px" OnClick="btnWomen_Click" />
                 </td>
                 <td class="auto-style9">
-                    <asp:Button ID="btnMen" runat="server" Text="Men" Width="218px" />
+                    <asp:Button ID="btnMen" runat="server" Text="Men" Width="218px" OnClick="btnMen_Click" />
                 </td>
                 <td class="auto-style15">
-                    <asp:Button ID="btnAboutUs" runat="server" Text="About Us" Width="246px" />
+                    <asp:Button ID="btnAboutUs" runat="server" Text="About Us" Width="246px" OnClick="btnAboutUs_Click" />
                 </td>
                 <td colspan="3" class="auto-style20">
-                    <asp:Button ID="btnContactUs" runat="server" Text="Contact Us" Width="280px" />
+                    <asp:Button ID="btnContactUs" runat="server" Text="Contact Us" Width="280px" OnClick="btnContactUs_Click" />
                 </td>
             </tr>
             <tr>
