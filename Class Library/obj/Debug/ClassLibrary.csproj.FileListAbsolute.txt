@@ -20,3 +20,9 @@ H:\Desktop\Clothing website 2\Class Library\obj\Debug\Class Library.pdb
 \\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Team Development Project\Mobile E-commerce\Class Library\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
 \\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Team Development Project\Mobile E-commerce\Class Library\obj\Debug\Class Library.dll
 \\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Team Development Project\Mobile E-commerce\Class Library\obj\Debug\Class Library.pdb
+H:\Desktop\airline8\Class Library\bin\Debug\Class Library.dll
+H:\Desktop\airline8\Class Library\bin\Debug\Class Library.pdb
+H:\Desktop\airline8\Class Library\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
+H:\Desktop\airline8\Class Library\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+H:\Desktop\airline8\Class Library\obj\Debug\Class Library.dll
+H:\Desktop\airline8\Class Library\obj\Debug\Class Library.pdb

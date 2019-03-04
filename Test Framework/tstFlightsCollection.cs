@@ -24,7 +24,7 @@ namespace Test_Framework
             //create an instance of the class we want to create
             clsFlightsCollection AllFlights = new clsFlightsCollection();
             // create some test data to assign to the property
-            Int32 SomeCount = 72;
+            Int32 SomeCount = 1;
             //asig the data to the property
             AllFlights.Count = SomeCount;
             // test to see if the values are the same 
@@ -44,13 +44,12 @@ namespace Test_Framework
             clsFlights TestItem = new clsFlights();
             //set its properties
             TestItem.FlightNo = 4375;
-            TestItem.DepartureDate = "JFK International";
-            TestItem.ArrivalDate = "06/04/1969";
+            TestItem.DepartureDate = Convert.ToDateTime("05/06/2019");
+            TestItem.ArrivalDate = Convert.ToDateTime("05/06/2019");
             TestItem.DepartureDestination = "JFK International";
             TestItem.ArrivalDestination = "LHR";
-            TestItem.DepartureTime = "11:35";
-            TestItem.DepartureTime = "11:35";
-            TestItem.ArrivalTime = "16:45";
+            TestItem.DepartureTime = Convert.ToDateTime("12:00");
+            TestItem.ArrivalTime = Convert.ToDateTime("22:00");
             TestItem.Duration = "6:00";
             TestItem.Cost = "456";
             //add the item to the test list
@@ -62,7 +61,18 @@ namespace Test_Framework
         }
 
 
-
+        [TestMethod]
+        public void  FindMethodOk()
+        {
+            //create an instance of the class we want to create
+            clsFlightsCollection AllFlights = new clsFlightsCollection();
+            // create some test data to assign to the property
+            Int32 SomeCount = 1;
+            //asig the data to the property
+            AllFlights.Count = SomeCount;
+            // test to see if the values are the same 
+            Assert.AreEqual(AllFlights.Count, SomeCount);
+        }
 
         //[TestMethod]
         //public void TwoCustomersPresent()
