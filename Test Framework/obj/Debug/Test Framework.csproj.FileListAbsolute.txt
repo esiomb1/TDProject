@@ -26,13 +26,5 @@ H:\Documents\airline vs 4\Test Framework\obj\Debug\Test Framework.csproj.CoreCom
 H:\Documents\airline vs 4\Test Framework\obj\Debug\Test Framework.csproj.CopyComplete
 H:\Documents\airline vs 4\Test Framework\obj\Debug\Test Framework.dll
 H:\Documents\airline vs 4\Test Framework\obj\Debug\Test Framework.pdb
-H:\Desktop\Clothing website 2\Test Framework\bin\Debug\Test Framework.dll
-H:\Desktop\Clothing website 2\Test Framework\bin\Debug\Test Framework.pdb
-H:\Desktop\Clothing website 2\Test Framework\bin\Debug\Class Library.dll
-H:\Desktop\Clothing website 2\Test Framework\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
-H:\Desktop\Clothing website 2\Test Framework\bin\Debug\Class Library.pdb
 H:\Desktop\Clothing website 2\Test Framework\obj\Debug\Test Framework.csprojAssemblyReference.cache
 H:\Desktop\Clothing website 2\Test Framework\obj\Debug\Test Framework.csproj.CoreCompileInputs.cache
-H:\Desktop\Clothing website 2\Test Framework\obj\Debug\Test Framework.csproj.CopyComplete
-H:\Desktop\Clothing website 2\Test Framework\obj\Debug\Test Framework.dll
-H:\Desktop\Clothing website 2\Test Framework\obj\Debug\Test Framework.pdb

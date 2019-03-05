@@ -9,16 +9,28 @@ public partial class CustomerAddEditDelete : System.Web.UI.Page
 {
     protected void Page_Load(object sender, EventArgs e)
     {
-
+        
     }
 
     protected void Click_addcustomer(object sender, EventArgs e)
     {
 
         SqlDataSource1.InsertParameters["Email"].DefaultValue =
-        ((TextBox)GridView1.FooterRow.FindControl("txtEmail")).Text;
+        ((TextBox)GridViewCustomer.FooterRow.FindControl("txtEmail")).Text;
         SqlDataSource1.InsertParameters["CustomerName"].DefaultValue =
-    ((TextBox)GridView1.FooterRow.FindControl("txtCustomerName")).Text;
+    ((TextBox)GridViewCustomer.FooterRow.FindControl("txtCustomerName")).Text;
         SqlDataSource1.Insert();
+    }
+    protected void Click_adduser(object sender, EventArgs e)
+    {
+
+        SqlDataSource1.InsertParameters["PasswordName"].DefaultValue =
+        ((TextBox)GridViewCustomer.FooterRow.FindControl("txtPasswordName")).Text;
+     
+    }
+
+    protected void btnAdd_Click(object sender, EventArgs e)
+    {
+        
     }
 }
