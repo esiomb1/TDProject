@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace Class_Library
 {
-  public class clsPassenger
- 
+    public class clsPassenger
+
     {
 
         //hello 
@@ -19,7 +19,7 @@ namespace Class_Library
         public string LastName { get; set; }
         public string DOB { get; set; }
         public string Nationality { get; set; }
-        public string PassportNo{ get; set; }
+        public string PassportNo { get; set; }
 
 
 

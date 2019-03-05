@@ -8,6 +8,8 @@ namespace Class_Library
 {
     public class clsFlightsCollection
     {
+
+
         private List<clsFlights> mAllFlights = new List<clsFlights>();
 
         public clsFlightsCollection()// public contructor to the class
@@ -26,8 +28,6 @@ namespace Class_Library
             {
                 // create an istance of the customer class 
                 clsFlights AFlight = new clsFlights();
-                // get the customers name 
-                AFlight.Flight = DB.DataTable.Rows[Index]["Flight"].ToString();
                 //get the primar key 
                 AFlight.FlightNo = Convert.ToInt32(DB.DataTable.Rows[Index]["FlightNo"]);
                 //add the customer to the private data member 
@@ -69,4 +69,4 @@ namespace Class_Library
             }
         }
     }
-        }
+}

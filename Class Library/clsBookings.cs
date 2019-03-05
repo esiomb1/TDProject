@@ -14,7 +14,7 @@ namespace Class_Library
         public string PostCode { get; set; }
         public string CardNo { get; set; }
         public string ExpiryDate { get; set; }
-        public string CVSNo{ get; set; }
+        public string CVSNo { get; set; }
         public string Booking { get; set; }
 
         public string Valid(string someBooking)
@@ -38,4 +38,3 @@ namespace Class_Library
             return Error;
         }
     }
-}

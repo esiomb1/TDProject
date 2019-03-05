@@ -72,6 +72,7 @@
     <Compile Include="clsItineraryCollection.cs" />
     <Compile Include="clsPassenger.cs" />
     <Compile Include="clsPassengerCollection.cs" />
+    <Compile Include="clsPhoneCustomer.cs" />
     <Compile Include="CustomersAddEditDelete.cs">
       <SubType>Form</SubType>
     </Compile>

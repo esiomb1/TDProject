@@ -27,7 +27,7 @@ namespace Class_Library
                 // create an istance of the customer class 
                 clsBookings ABooking = new clsBookings();
                 // get the customers name 
-               ABooking.FirstName = DB.DataTable.Rows[Index]["Booking"].ToString();
+                ABooking.FirstName = DB.DataTable.Rows[Index]["Booking"].ToString();
                 //get the primar key 
                 ABooking.BookingNo = Convert.ToInt32(DB.DataTable.Rows[Index]["BookingNo"]);
                 //add the customer to the private data member 
