@@ -52,6 +52,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "v15", "v15", "{9386DACF-846
 		.vs\airline vs 4\v15\.suo = .vs\airline vs 4\v15\.suo
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TeamDevelopment", "TeamDevelopment", "{41B262B8-29C8-47E4-920A-5FB023FC0E43}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\Downloads\suo (1) = ..\..\Downloads\suo (1)
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -85,6 +90,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{B610A0E2-873D-4F3A-83CF-6CD21FAFA402} = {D0B30CCC-EB9D-4314-A115-162340137159}
 		{9386DACF-8468-457C-91D7-A5AFC37F62E6} = {B610A0E2-873D-4F3A-83CF-6CD21FAFA402}
+		{41B262B8-29C8-47E4-920A-5FB023FC0E43} = {D0B30CCC-EB9D-4314-A115-162340137159}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3F561192-80F6-42B5-89B4-30948DFBFC95}
