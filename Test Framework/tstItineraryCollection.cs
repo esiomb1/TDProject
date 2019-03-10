@@ -24,7 +24,7 @@ namespace Test_Framework
             //create an instance of the class we want to create
             clsItineraryCollection AllItineraries = new clsItineraryCollection();
             // create some test data to assign to the property
-            Int32 SomeCount = 72;
+            Int32 SomeCount = 0;
             //asig the data to the property
             AllItineraries.Count = SomeCount;
             // test to see if the values are the same 

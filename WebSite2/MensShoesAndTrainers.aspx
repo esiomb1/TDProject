@@ -3,7 +3,7 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
-    <asp:DataList ID="DataList1" runat="server" DataKeyField="Productid" DataSourceID="SqlDataSource1" RepeatDirection="Horizontal">
+    <asp:DataList ID="DataList1" runat="server" DataKeyField="Productid" DataSourceID="SqlDataSource1" RepeatDirection="Horizontal" OnSelectedIndexChanged="DataList1_SelectedIndexChanged">
           <ItemTemplate>
             <table border="1" class="auto-style21">
                 <tr>
@@ -25,7 +25,7 @@
                 </tr>
                 <tr>
                     <td class="auto-style25">
-                        <asp:Image ID="Image1" runat="server" ImageUrl='<%# Eval("ProductImage") %>' Height="405px" Width="350px" />
+                        <asp:Image ID="Image1" runat="server" ImageUrl='<%# Eval("ProductImage") %>' Height="400px" Width="350px" />
                     </td>
                 </tr>
                 <tr>

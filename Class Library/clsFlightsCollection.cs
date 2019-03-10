@@ -9,7 +9,7 @@ namespace Class_Library
     public class clsFlightsCollection
     {
 
-
+       
         private List<clsFlights> mAllFlights = new List<clsFlights>();
 
         public clsFlightsCollection()// public contructor to the class
@@ -69,4 +69,4 @@ namespace Class_Library
             }
         }
     }
-}
+        }

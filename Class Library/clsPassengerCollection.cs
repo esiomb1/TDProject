@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Class_Library
 {
-    public class clsPassengerCollection
+   public class clsPassengerCollection
     {
         private List<clsPassenger> mAllPassengers = new List<clsPassenger>();
 
