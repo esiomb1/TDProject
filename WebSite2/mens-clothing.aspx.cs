@@ -12,4 +12,9 @@ public partial class mens_clothing : System.Web.UI.Page
 
     }
 
+
+    protected void btnCoatsandJackets_Click(object sender, EventArgs e)
+    {
+        Response.Redirect("MensCoatsandJackets.aspx");
+    }
 }
