@@ -20,9 +20,8 @@ namespace Class_Library
         public string LastName { get; set; }
         public string PostCode { get; set; }
         public string Address { get; set; }
-
-
-
+        public bool Active { get; set; }
+        public DateTime Date { get; set; }
 
         public string Valid(string someCustomer)
         {
