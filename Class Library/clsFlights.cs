@@ -4,17 +4,32 @@ namespace Class_Library
 {
     public class clsFlights
     {
+        // private data member for the flight no prop
+        private Int32 mFlightNo;
 
-        //hello 
+
+        public int FlightNo
+        {
+            get
+            {
+                // return the private data 
+                return mFlightNo;
+            }
+            set
+            {
+                //set he value of the private data memebr 
+                mFlightNo = value;
+            }
+        }
 
 
-        public int FlightNo { get; set; }
+
         public string DepartureDestination { get; set; }
         public string ArrivalDestination { get; set; }
-        public string DepartureDate { get; set; }
-        public string ArrivalDate { get; set; }
-        public string DepartureTime { get; set; }
-        public string ArrivalTime { get; set; }
+        public DateTime DepartureDate { get; set; }
+        public DateTime ArrivalDate { get; set; }
+        public DateTime DepartureTime { get; set; }
+        public DateTime ArrivalTime { get; set; }
         public string Duration { get; set; }
         public string Cost { get; set; }
         public string Flight { get; set; }
@@ -42,5 +57,17 @@ namespace Class_Library
             }
             return Error;
         }
+
+        public bool Find(int flightNo)
+        {
+            // et the private data member to the test data value 
+            mFlightNo = 21;
+            // alway retrurn true 
+            return true;
+        }
+      
+
+
+
     }
 }

@@ -43,7 +43,7 @@ namespace Test_Framework
             //create a variable to store the Id of a County
             Int32 FlightNo;
             //assign a value to the variable
-            FlightNo = 1278793;
+            FlightNo = 1273;
             //try to send some data to the CustomerNo property
             AFlight.FlightNo = FlightNo;
             //check to see that the data in the variable and the property are the same
@@ -154,5 +154,123 @@ namespace Test_Framework
         }
 
 
+        [TestMethod]
+        //test that the Customer validation throws an error when Customer is blank
+        public void FindMethodOK()
+        {
+            //create an instance of the class
+            clsFlights AFlight = new clsFlights();
+            //create a variable to record the result of the validation test
+            Boolean Found = false;
+            //create test data t test method
+            Int32 FlightNo = 1;
+            // invoke the method 
+            Found = AFlight.Find(FlightNo);
+            //test to see if the result is correct 
+            Assert.IsTrue(Found);
+        }
+
+
+
+        [TestMethod]
+        //test that the Customer validation throws an error when Customer is blank
+        public void TestFlightNoFound()
+        {
+            //create an instance of the class
+            clsFlights AFlight = new clsFlights();
+            //create a variable to record the result of the validation test
+            Boolean Found = false;
+            // Boolean variable to record if the data is okay 
+            Boolean OK = true;
+            //create test data t test method
+            Int32 FlightNo = 21;
+            // invoke the method 
+            Found = AFlight.Find(FlightNo);
+            //check the fight no
+            if (AFlight.FlightNo != 21)
+            {
+                OK = false;
+
+            }
+            //test to see if the result is correct 
+            Assert.IsTrue(OK);
+        }
+
+
+        [TestMethod]
+        //test that the Customer validation throws an error when Customer is blank
+        public void DepartureAirportNoFound()
+        {
+            //create an instance of the class
+            clsFlights ADepartureAirport = new clsFlights();
+            //create a variable to record the result of the validation test
+            Boolean Found = false;
+            // Boolean variable to record if the data is okay 
+            Boolean OK = true;
+            //create test data t test method
+            Int32 FlightNo = 21;
+            // invoke the method 
+            Found = ADepartureAirport.Find(FlightNo);
+            //check the fight no
+            if (ADepartureAirport.FlightNo != 21)
+            {
+                OK = false;
+
+            }
+            //test to see if the result is correct 
+            Assert.IsTrue(OK);
+        }
+
+
+        [TestMethod]
+        //test that the Customer validation throws an error when Customer is blank
+        public void DestinationAirportNoFound()
+        {
+            //create an instance of the class
+            clsFlights ADestinationAirport = new clsFlights();
+            //create a variable to record the result of the validation test
+            Boolean Found = false;
+            // Boolean variable to record if the data is okay 
+            Boolean OK = true;
+            //create test data t test method
+            Int32 FlightNo = 21;
+            // invoke the method 
+            Found = ADestinationAirport.Find(FlightNo);
+            //check the fight no
+            if (ADestinationAirport.FlightNo != 21)
+            {
+                OK = false;
+
+            }
+            //test to see if the result is correct 
+            Assert.IsTrue(OK);
+        }
+
+
+
+
+        [TestMethod]
+        //test that the Customer validation throws an error when Customer is blank
+        public void DepartureTimeNoFound()
+        {
+            //create an instance of the class
+            clsFlights AFlight = new clsFlights();
+            //create a variable to record the result of the validation test
+            Boolean Found = false;
+            // Boolean variable to record if the data is okay 
+            Boolean OK = true;
+            //create test data t test method
+            Int32 FlightNo = 21;
+            // invoke the method 
+            Found = AFlight.Find(FlightNo);
+            //check the property
+            if (AFlight.DepartureTime !=Convert.ToDateTime("14:00"))
+            {
+                OK = false;
+
+            }
+            //test to see if the result is correct 
+            Assert.IsFalse(OK);
+        }
     }
 }
