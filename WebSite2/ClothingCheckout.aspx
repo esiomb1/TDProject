@@ -164,10 +164,35 @@ hr {
         </div>
         <label>
           <input type="checkbox" checked="checked" name="sameadr"> Shipping address same as billing
+          <br />
         </label>
-        <input type="submit" value="Continue to checkout" class="btn">
+          <br />
+          You have
+          <asp:Label ID="Label1" runat="server" Text="Label"></asp:Label>
+&nbsp;Products in your cart<br />
+          <br />
+          <asp:GridView ID="GridView1" runat="server" AutoGenerateColumns="False" BackColor="#DEBA84" BorderColor="#DEBA84" BorderStyle="None" BorderWidth="1px" CellPadding="3" CellSpacing="2" OnSelectedIndexChanged="GridView1_SelectedIndexChanged" Width="1437px" OnRowDeleted="GridView1_RowDeleted" OnRowDeleting="GridView1_RowDeleting">
+              <Columns>
+                  <asp:BoundField DataField="ProductId" HeaderText="ProductId" />
+                  <asp:BoundField DataField="Description" HeaderText="Description" />
+                  <asp:BoundField DataField="Price" HeaderText="Price" />
+                  <asp:BoundField DataField="ProductType" HeaderText="ProductType" />
+                  <asp:ImageField DataImageUrlField="ProductImage" HeaderText="ProductImage">
+                  </asp:ImageField>
+              </Columns>
+              <FooterStyle BackColor="#F7DFB5" ForeColor="#8C4510" />
+              <HeaderStyle BackColor="#A55129" Font-Bold="True" ForeColor="White" />
+              <PagerStyle ForeColor="#8C4510" HorizontalAlign="Center" />
+              <RowStyle BackColor="#FFF7E7" ForeColor="#8C4510" />
+              <SelectedRowStyle BackColor="#738A9C" Font-Bold="True" ForeColor="White" />
+              <SortedAscendingCellStyle BackColor="#FFF1D4" />
+              <SortedAscendingHeaderStyle BackColor="#B95C30" />
+              <SortedDescendingCellStyle BackColor="#F1E5CE" />
+              <SortedDescendingHeaderStyle BackColor="#93451F" />
+          </asp:GridView>
+          <br />
       </form>
-    </div>
+        <input type="submit" value="Continue to checkout" class="btn"></div>
   </div>
 </asp:Content>
 

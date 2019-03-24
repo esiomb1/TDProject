@@ -3,8 +3,19 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
-    <asp:DataList ID="DataList1" runat="server" DataKeyField="Productid" DataSourceID="SqlDataSource1" RepeatDirection="Horizontal" OnSelectedIndexChanged="DataList1_SelectedIndexChanged">
-          <ItemTemplate>
+    No of products in your shopping cart:&nbsp;&nbsp;&nbsp;
+    <asp:Label ID="Label5" runat="server" Text="Label"></asp:Label>
+
+
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+    <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="~/ClothingCheckout.aspx">Show Cart</asp:HyperLink>
+    <br />
+    <br />
+    <br />
+    <asp:DataList ID="DataList1" runat="server" DataKeyField="Productid" DataSourceID="SqlDataSource1" RepeatDirection="Horizontal" OnItemCommand="DataList1_ItemCommand">
+      <ItemTemplate>
             <table border="1" class="auto-style21">
                 <tr>
                     <td class="auto-style25">ProductId<asp:Label ID="Label1" runat="server" Text='<%# Eval("Productid") %>'></asp:Label>
@@ -30,7 +41,7 @@
                 </tr>
                 <tr>
                     <td class="auto-style25">
-                        <asp:Button ID="btnAddToCart" runat="server" Text="Add To Cart" />
+                        <asp:Button ID="btnAddToCart" runat="server" Text="Add To Cart" CommandArgument='<%#Eval("Productid")%>' CommandName="addtocart"/>
                     </td>
                 </tr>
             </table>
@@ -38,6 +49,9 @@
             <br />
         </ItemTemplate>
     </asp:DataList>
+    <br />
+    <br />
+    <br />
     <asp:SqlDataSource ID="SqlDataSource1" runat="server" ConnectionString="<%$ ConnectionStrings:CartConnectionString %>" SelectCommand="SELECT Productid, Description, Price, ProductType, ProductImage FROM Product WHERE (ProductType = 'MensShoe')"></asp:SqlDataSource>
 </asp:Content>
 

@@ -57,7 +57,9 @@
     
         <table class="auto-style5">
             <tr>
-                <td colspan="5" class="auto-style18">Header content</td>
+                <td colspan="5" class="auto-style18">
+                    <asp:Label ID="Label6" runat="server" Font-Bold="True" Font-Size="XX-Large" ForeColor="Red" Text="JACKS CLOTHING WEBSITE" Width="446px"></asp:Label>
+                </td>
                 <td class="auto-style13">
                     <asp:Button ID="btnSignUp" runat="server" Text="Sign Up" OnClick="btnSignUp_Click" />
                 </td>
@@ -89,7 +91,17 @@
                 </td>
             </tr>
             <tr>
-                <td colspan="7" class="auto-style19">This is footer content</td>
+                <td colspan="7" class="auto-style19">
+                    <asp:HyperLink ID="HyperLink2" runat="server" ForeColor="White" NavigateUrl="~/Home.aspx">Home</asp:HyperLink>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <asp:HyperLink ID="HyperLink3" runat="server" ForeColor="White" NavigateUrl="~/WomensClothing.aspx">Women</asp:HyperLink>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <asp:HyperLink ID="HyperLink4" runat="server" ForeColor="White" NavigateUrl="~/mens-clothing.aspx">Men</asp:HyperLink>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <asp:HyperLink ID="lnkAboutUs" runat="server" ForeColor="White" NavigateUrl="~/AboutUs.aspx">About Us</asp:HyperLink>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <asp:HyperLink ID="HyperLink6" runat="server" ForeColor="White" NavigateUrl="~/ContactUs.aspx">Contact Us</asp:HyperLink>
+                </td>
             </tr>
         </table>
     

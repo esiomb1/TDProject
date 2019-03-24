@@ -41,4 +41,9 @@ public partial class WomensClothing : System.Web.UI.Page
     {
         Response.Redirect("WomensAcceroise.aspx");
     }
+
+    protected void btnWomensHats_Click(object sender, EventArgs e)
+    {
+        Response.Redirect("WomensHats.aspx");
+    }
 }

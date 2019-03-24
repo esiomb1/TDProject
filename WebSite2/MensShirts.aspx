@@ -3,7 +3,16 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
-    <asp:DataList ID="DataList1" runat="server" DataKeyField="Productid" DataSourceID="SqlDataSource1" Width="408px" RepeatDirection="Horizontal">
+    No of products in your shopping cart:&nbsp;&nbsp;&nbsp;
+    <asp:Label ID="Label5" runat="server" Text="Label"></asp:Label>
+
+
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+    <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="~/ClothingCheckout.aspx">Show Cart</asp:HyperLink>
+    <br />
+    <asp:DataList ID="DataList1" runat="server" DataKeyField="Productid" DataSourceID="SqlDataSource1" Width="408px" RepeatDirection="Horizontal" OnItemCommand="DataList1_ItemCommand">
          <ItemTemplate>
             <table border="1" class="auto-style21">
                 <tr>
@@ -25,12 +34,12 @@
                 </tr>
                 <tr>
                     <td class="auto-style25">
-                        <asp:Image ID="Image1" runat="server" ImageUrl='<%# Eval("ProductImage") %>' />
+                        <asp:Image ID="Image2" runat="server" ImageUrl='<%# Eval("ProductImage") %>' />
                     </td>
                 </tr>
                 <tr>
                     <td class="auto-style25">
-                        <asp:Button ID="btnAddToCart" runat="server" Text="Add To Cart" />
+                        <asp:Button ID="btnAddToCart" runat="server" Text="Add To Cart" CommandArgument='<%#  Eval("Productid")%>' CommandName="addtocart"/>
                     </td>
                 </tr>
             </table>
@@ -38,6 +47,8 @@
             <br />
         </ItemTemplate>
     </asp:DataList>
+    <br />
     <asp:SqlDataSource ID="SqlDataSource1" runat="server" ConnectionString="<%$ ConnectionStrings:CartConnectionString %>" SelectCommand="SELECT Productid, Description, Price, ProductType, ProductImage FROM Product WHERE (ProductType = N'MensShirt')"></asp:SqlDataSource>
+    <br />
 </asp:Content>
 
