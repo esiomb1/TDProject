@@ -80,6 +80,7 @@
     <Compile Include="tstItineraryCollection.cs" />
     <Compile Include="tstPassenger.cs" />
     <Compile Include="tstPassengerCollection.cs" />
+    <Compile Include="tstPhoneCustomer.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Class Library\ClassLibrary.csproj">
