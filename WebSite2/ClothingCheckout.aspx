@@ -102,6 +102,14 @@ hr {
     margin-bottom: 20px;
   }
 }
+        .auto-style21 {
+            width: 106px;
+            height: 83px;
+        }
+        .auto-style22 {
+            width: 115px;
+            height: 64px;
+        }
     </style>
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
@@ -142,7 +150,7 @@ hr {
               <i class="fa fa-cc-amex" style="color:blue;"></i>
               <i class="fa fa-cc-mastercard" style="color:red;"></i>
               <i class="fa fa-cc-discover" style="color:orange;"></i>
-            </div>
+                <img alt="" class="auto-style21" src="images/kisspng-visa-logo-mastercard-credit-card-payment-5b15b13e347986.454908321528148286215.jpg" /><img alt="" class="auto-style22" src="images/American-Express-copy.png" /></div>
             <label for="cname">Name on Card</label>
             <input type="text" id="cname" name="cardname" placeholder="John More Doe">
             <label for="ccnum">Credit card number</label>

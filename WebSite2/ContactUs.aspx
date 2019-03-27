@@ -1,34 +1,33 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/ClothingProject2.master" AutoEventWireup="true" CodeFile="ContactUs.aspx.cs" Inherits="ContactUs" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
+    <style type="text/css" runat="server">
+input[type=text], select, textarea {
+  width: 100%; /* Full width */
+  padding: 12px; /* Some padding */  
+  border: 1px solid #ccc; /* Gray border */
+  border-radius: 4px; /* Rounded borders */
+  box-sizing: border-box; /* Make sure that padding and width stays in place */
+  margin-top: 6px; /* Add a top margin */
+  margin-bottom: 16px; /* Bottom margin */
+  resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
+}
+
+
+</style>
 </asp:Content>
+
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <br />
-    <br />
-    <asp:TextBox ID="TextBox5" runat="server" Height="18px" style="margin-left: 236px" Width="176px"></asp:TextBox>
-    <br />
-    <br />
-&nbsp;<asp:TextBox ID="TextBox4" runat="server" Height="18px" style="margin-left: 231px" Width="176px"></asp:TextBox>
-    <br />
-    <br />
-    <asp:TextBox ID="TextBox3" runat="server" Height="18px" style="margin-left: 235px" Width="176px"></asp:TextBox>
-    <br />
-    <br />
-    <asp:TextBox ID="TextBox1" runat="server" Height="20px" Width="192px" style="margin-left: 234px"></asp:TextBox>
-    <br />
-    <br />
-    <asp:TextBox ID="TextBox2" runat="server" Height="116px" Width="423px" style="margin-left: 238px; margin-bottom: 0px;"></asp:TextBox>
+     <label for="fname">First Name</label>
+    <input type="text" id="fname" name="firstname" placeholder="Your name..">
 
+    <label for="lname">Last Name</label>
+    <input type="text" id="lname" name="lastname" placeholder="Your last name..">
 
-    <br />
+     <label for="subject">Subject</label>
+    <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
 
-
-    <br />
-<br />
-<br />
-<br />
-<br />
+    <input type="submit" value="Submit">
 
 
     </asp:Content>

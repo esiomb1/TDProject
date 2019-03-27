@@ -14,7 +14,7 @@ public partial class ClothingProject2 : System.Web.UI.MasterPage
 
     protected void btnSignUp_Click(object sender, EventArgs e)
     {
-        Response.Redirect("Clothing-Signup.aspx");
+        Response.Redirect("CustomerSignUp.aspx");
     }
 
     protected void btnHome_Click(object sender, EventArgs e)
@@ -44,6 +44,6 @@ public partial class ClothingProject2 : System.Web.UI.MasterPage
 
     protected void btnLogin_Click(object sender, EventArgs e)
     {
-        Response.Redirect("ClothingLogin.aspx");
+        Response.Redirect("CustomerLogin.aspx");
     }
 }
