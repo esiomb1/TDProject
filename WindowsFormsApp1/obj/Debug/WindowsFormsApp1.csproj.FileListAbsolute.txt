@@ -1,0 +1,8 @@
+H:\Desktop\Clothing website 2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+H:\Desktop\Clothing website 2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+H:\Desktop\Clothing website 2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+H:\Desktop\Clothing website 2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+H:\Desktop\Clothing website 2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+H:\Desktop\Clothing website 2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+H:\Desktop\Clothing website 2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+H:\Desktop\Clothing website 2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

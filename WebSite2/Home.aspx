@@ -42,7 +42,7 @@
     -o-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
     background-color: white;
-    color: green;
+    color: black;
     font-size: 16px;
     padding: 16px 30px;
     cursor: pointer;
