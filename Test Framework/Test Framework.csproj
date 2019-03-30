@@ -69,11 +69,11 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
-    <Compile Include="tstBookingsCollection.cs" />
+    <Compile Include="tsteBookingsCollection.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="tstBookings.cs" />
-    <Compile Include="tstCustomer.cs" />
-    <Compile Include="tstCustomerCollection.cs" />
+    <Compile Include="tsteBookings.cs" />
+    <Compile Include="tsteCustomer.cs" />
+    <Compile Include="tsteCustomerCollection.cs" />
     <Compile Include="tstFlights.cs" />
     <Compile Include="tstFlightsCollection.cs" />
     <Compile Include="tstItinerary.cs" />
