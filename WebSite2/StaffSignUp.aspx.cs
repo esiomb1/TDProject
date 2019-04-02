@@ -19,8 +19,8 @@ public partial class StaffSignUp : System.Web.UI.Page
         SqlConnection con = new SqlConnection();
         con.ConnectionString = ConfigurationManager.ConnectionStrings["CartConnectionString"].ToString();
         con.Open();
-        SqlCommand cmd1 = new SqlCommand("Insert into Staff(StaffId, StaffName, UserId) values (@CustomerId, @StaffName, @UserId)'", con);
-        cmd1.Parameters.AddWithValue("@StaffId", txtStaffId.Text);
+        SqlCommand cmd1 = new SqlCommand("Insert into Staff(StaffsId, StaffName, UserId) values (@StaffsId, @StaffName, @UserId)'", con);
+        cmd1.Parameters.AddWithValue("@StaffsId", txtStaffId.Text);
         cmd1.Parameters.AddWithValue("@StaffName", txtStaffName.Text);
         cmd1.Parameters.AddWithValue("@UserId", txtUserId.Text);
         cmd1.ExecuteNonQuery();
@@ -38,9 +38,9 @@ public partial class StaffSignUp : System.Web.UI.Page
         SqlConnection con = new SqlConnection();
         con.ConnectionString = ConfigurationManager.ConnectionStrings["CartConnectionString"].ToString();
         con.Open();
-        SqlCommand cmd1 = new SqlCommand("Update Staff set StaffId=@StaffId, StaffName=@StaffName, UserId=@UserId where StaffId='" + txtStaffId.Text + "'", con);
-        cmd1.Parameters.AddWithValue("@CustomersId", txtStaffId.Text);
-        cmd1.Parameters.AddWithValue("@CustomerName", txtStaffName.Text);
+        SqlCommand cmd1 = new SqlCommand("Update Staff set StaffsId=@StaffsId, StaffName=@StaffName, UserId=@UserId where StaffsId='" + txtStaffId.Text + "'", con);
+        cmd1.Parameters.AddWithValue("@StaffsId", txtStaffId.Text);
+        cmd1.Parameters.AddWithValue("@StaffName", txtStaffName.Text);
         cmd1.Parameters.AddWithValue("@UserId", txtUserId.Text);
         cmd1.ExecuteNonQuery();
         cmd1.Parameters.Clear();
@@ -59,14 +59,14 @@ public partial class StaffSignUp : System.Web.UI.Page
             SqlConnection con = new SqlConnection();
             con.ConnectionString = ConfigurationManager.ConnectionStrings["CartConnectionString"].ToString();
             con.Open();
-            SqlCommand cmd1 = new SqlCommand("Select * from Staff where StaffId='" + txtStaffId.Text + "'", con);
+            SqlCommand cmd1 = new SqlCommand("Select * from Staff where StaffsId='" + txtStaffId.Text + "'", con);
             SqlDataReader dr1 = cmd1.ExecuteReader();
             if (dr1.HasRows)
             {
 
                 while (dr1.Read())
                 {
-                    txtStaffId.Text = dr1["StaffId"].ToString();
+                    txtStaffId.Text = dr1["StaffsId"].ToString();
                     txtStaffName.Text = dr1["StaffName"].ToString();
                     txtUserId.Text = dr1["UserId"].ToString();
 
