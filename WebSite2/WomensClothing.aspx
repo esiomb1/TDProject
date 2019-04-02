@@ -6,12 +6,15 @@
             width: 327px;
             height: 405px;
         }
+        .auto-style21 {
+            width: 317px;
+            height: 405px;
+        }
     </style>
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
     <p>
-        <img alt="WomensTop1" class="auto-style17" src="images/womens-bretonshirt.jfif" />
-        <img alt="WomensTrousers1" class="auto-style17" src="images/womens-trousers1.jfif" /><img alt="womens-swimwear" class="auto-style17" src="images/womens-swimwear.jfif" /><img alt="dress" class="auto-style17" src="images/womens-dress.jfif" /></p>
+        &nbsp;<img alt="womens tops" class="auto-style21" src="images/womens-tops.jfif" /><img alt="womens trousers" class="auto-style21" src="images/womens-trousers1.jfif" /><img alt="womens-swimwear" class="auto-style17" src="images/womens-swimwear.jfif" /><img alt="dress" class="auto-style17" src="images/womens-dress.jfif" /></p>
 <p>
         <asp:Button ID="btnTopsandShirts" runat="server" OnClick="btnTopsandShirts_Click" Text="TopsandShirts" />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
