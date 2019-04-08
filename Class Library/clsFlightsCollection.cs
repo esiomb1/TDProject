@@ -40,20 +40,20 @@ namespace Class_Library
         }
 
 
-        public int Count
-        {
-            get
-            {
+      //  public int Count
+       // {
+          //  get
+         //   {
                 // return the count property of the private list
-                return mAllFlights.Count;
+          //      return mAllFlights.Count;
 
-            }
-            set
-            {
+         //   }
+         //   set
+       //     {
                 // assign the incoming value to the private data member 
 
-            }
-        }
+        //    }
+     //   }
         public List<clsFlights> AllFlights
         {// getter send the data to requesting code
             get
@@ -68,5 +68,46 @@ namespace Class_Library
                 mAllFlights = value;
             }
         }
-    }
+
+
+        private List<clsWidget> mWidgets = new List<clsWidget>();
+
+
+        public List<clsWidget> Widgets
+        {
+            get
+            {
+                return mWidgets;
+            }
         }
+
+        public Int32 Count
+        {
+            get
+            {
+                return mWidgets.Count;
+            }
+        }
+
+
+        public void AvailableFlights(DateTime StartDate, DateTime EndDate)
+        {
+            clsDataConnection DB = new clsDataConnection();
+            DB.AddParameter("@StartDate", StartDate);
+            DB.AddParameter("@EndDate", EndDate);
+            DB.Execute("sproc_tblFlights_CheckAvailablity");
+            mWidgets = new List<clsWidget>();
+            Int32 Index = 0;
+            Int32 Count = DB.Count;
+            while ( Index < Count)
+            {
+                clsWidget Aflight = new clsWidget();
+                Aflight.WidgetNo = Convert.ToInt32(DB.DataTable.Rows[Index]["WidgetNo"]);
+                Aflight.Widget = Convert.ToString(DB.DataTable.Rows[Index]["Widget"]);
+                mWidgets.Add(Aflight);
+                Index++; 
+            }
+        }
+    }
+
+ }
