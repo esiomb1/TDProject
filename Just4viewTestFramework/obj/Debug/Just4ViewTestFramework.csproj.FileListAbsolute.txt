@@ -1,0 +1,21 @@
+D:\Final Year\Final year Project\ProjectWork-Just4Views-Cinema\ProjectWork-Just4Views-Cinema\Just4viewTestFramework\bin\Debug\Test Framework.dll
+D:\Final Year\Final year Project\ProjectWork-Just4Views-Cinema\ProjectWork-Just4Views-Cinema\Just4viewTestFramework\bin\Debug\Test Framework.pdb
+D:\Final Year\Final year Project\ProjectWork-Just4Views-Cinema\ProjectWork-Just4Views-Cinema\Just4viewTestFramework\bin\Debug\Class Library.dll
+D:\Final Year\Final year Project\ProjectWork-Just4Views-Cinema\ProjectWork-Just4Views-Cinema\Just4viewTestFramework\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Final Year\Final year Project\ProjectWork-Just4Views-Cinema\ProjectWork-Just4Views-Cinema\Just4viewTestFramework\bin\Debug\Class Library.pdb
+D:\Final Year\Final year Project\ProjectWork-Just4Views-Cinema\ProjectWork-Just4Views-Cinema\Just4viewTestFramework\obj\Debug\Just4ViewTestFramework.csprojAssemblyReference.cache
+D:\Final Year\Final year Project\ProjectWork-Just4Views-Cinema\ProjectWork-Just4Views-Cinema\Just4viewTestFramework\obj\Debug\Just4ViewTestFramework.csproj.CoreCompileInputs.cache
+D:\Final Year\Final year Project\ProjectWork-Just4Views-Cinema\ProjectWork-Just4Views-Cinema\Just4viewTestFramework\obj\Debug\Just4ViewTestFramework.csproj.CopyComplete
+D:\Final Year\Final year Project\ProjectWork-Just4Views-Cinema\ProjectWork-Just4Views-Cinema\Just4viewTestFramework\obj\Debug\Test Framework.dll
+D:\Final Year\Final year Project\ProjectWork-Just4Views-Cinema\ProjectWork-Just4Views-Cinema\Just4viewTestFramework\obj\Debug\Test Framework.pdb
+H:\Desktop\MyWork\Just4viewTestFramework\bin\Debug\Test Framework.dll
+H:\Desktop\MyWork\Just4viewTestFramework\bin\Debug\Test Framework.pdb
+H:\Desktop\MyWork\Just4viewTestFramework\bin\Debug\Class Library.dll
+H:\Desktop\MyWork\Just4viewTestFramework\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+H:\Desktop\MyWork\Just4viewTestFramework\bin\Debug\Class Library.pdb
+H:\Desktop\MyWork\Just4viewTestFramework\bin\Debug\Class Library.dll.config
+H:\Desktop\MyWork\Just4viewTestFramework\obj\Debug\Just4ViewTestFramework.csprojAssemblyReference.cache
+H:\Desktop\MyWork\Just4viewTestFramework\obj\Debug\Just4ViewTestFramework.csproj.CoreCompileInputs.cache
+H:\Desktop\MyWork\Just4viewTestFramework\obj\Debug\Just4ViewTestFramework.csproj.CopyComplete
+H:\Desktop\MyWork\Just4viewTestFramework\obj\Debug\Test Framework.dll
+H:\Desktop\MyWork\Just4viewTestFramework\obj\Debug\Test Framework.pdb

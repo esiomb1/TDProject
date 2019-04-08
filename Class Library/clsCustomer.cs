@@ -2,46 +2,160 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace Class_Library
 {
     public class clsCustomer
     {
-     
-       //hello 
+        //prvate data member for the CustomerNo property
+        private Int32 mCustomerNo;
+        //private data member for Addresss
+        private string mAddress;
+        //private data member for DateOfBirth
+        private DateTime mDateOfBirth;
+        //private data member for Email
+        private string mEmail;
+        //private data member for LastName
+        private string mLastName;
+        //private data member FirstName
+        private string mFirstName;
+        //private data member Title
+        private string mTitle;
+        //private data member postcode
+        private string mPostcode;
+        //private data memeber mobile
+        private string mMobile;
 
-
-        public string Customer { get; set; }
-        public int CustomerNo { get; set; }
-        public string FirstName { get; set; }
-        public string EmailAddress { get; set; }
-        public string Mobile { get; set; }
-        public string LastName { get; set; }
-        public string PostCode { get; set; }
-        public string Address { get; set; }
-        public bool Active { get; set; }
-        public DateTime Date { get; set; }
-
-        public string Valid(string someCustomer)
+        //private data member for active
+        private bool mActive;
+        //public property for active
+        public bool Active
         {
-            // string variable to store the error message 
-            string Error = "";
-
-         //if the name of the customer is more than 5 character 
-         if (someCustomer.Length > 50)
+            get
             {
-                //return error messgae 
-                return "Customer Name Cannot Be more than 50 characters  ";
-
+                return mActive;
             }
-           if (someCustomer.Length == 0)
+            set
             {
-                //return error messgae 
-                return "Customer Name Cannot Be Blank! ";
-
+                mActive = value;
             }
-            return Error;
+        }
+        //public property for mobile
+
+        public string Mobile
+        {
+            get
+            {
+                //return private data
+                return mMobile;
+            }
+            set
+            {
+                //set the private data 
+                mMobile = value;
+            }
+        }
+
+        //public property for postcode
+
+        public string Postcode
+        {
+            get
+            {
+                return mPostcode;
+            }
+            set
+            {
+                //set the private data
+                mPostcode = value;
+            }
+        }
+
+        public string Address
+        {
+            get
+            {
+                return mAddress;
+            }
+            set
+            {
+                mAddress = value;
+            }   
+        }
+        public DateTime DateOfBirth
+        {
+            get
+            {
+                return mDateOfBirth;
+            }
+            set
+            {
+                mDateOfBirth = value;
+            }
+        }
+        public string Email
+        {
+            get
+            {
+                return mEmail;
+            }
+            set
+            {
+                mEmail = value;
+            }
+        }
+
+        public string FirstName
+        {
+            get
+            {
+                return mFirstName;
+            }
+
+            set
+            {
+                mFirstName = value;
+            }
+        }
+
+        public string Title
+        {
+            get
+            {
+                return mTitle;
+            }
+            set
+            {
+                mTitle = value;
+            }
+        }
+
+        public string LastName
+        {
+            get
+            {
+                return mLastName;
+            }
+            set
+            {
+                mLastName = value;
+            }
+        }
+        public int CustomerNo
+        {
+            get
+            {
+                return mCustomerNo;
+            }
+            set
+            {
+                mCustomerNo = value;
+            }
+        }
+ 
+        public bool Find(int customerNo)
+        {
+            throw new NotImplementedException();
         }
     }
 }

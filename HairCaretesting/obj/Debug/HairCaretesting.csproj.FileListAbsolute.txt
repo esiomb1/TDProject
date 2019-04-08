@@ -1,0 +1,11 @@
+H:\Desktop\MyWork\HairCaretesting\obj\Debug\HairCaretesting.csprojAssemblyReference.cache
+H:\Desktop\MyWork\HairCaretesting\obj\Debug\HairCaretesting.csproj.CoreCompileInputs.cache
+H:\Desktop\MyWork\HairCaretesting\obj\Debug\Test Framework.dll
+H:\Desktop\MyWork\HairCaretesting\obj\Debug\Test Framework.pdb
+H:\Desktop\MyWork\HairCaretesting\bin\Debug\Test Framework.dll
+H:\Desktop\MyWork\HairCaretesting\bin\Debug\Test Framework.pdb
+H:\Desktop\MyWork\HairCaretesting\bin\Debug\Class Library.dll
+H:\Desktop\MyWork\HairCaretesting\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+H:\Desktop\MyWork\HairCaretesting\bin\Debug\Class Library.pdb
+H:\Desktop\MyWork\HairCaretesting\bin\Debug\Class Library.dll.config
+H:\Desktop\MyWork\HairCaretesting\obj\Debug\HairCaretesting.csproj.CopyComplete

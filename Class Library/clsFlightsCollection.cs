@@ -40,20 +40,20 @@ namespace Class_Library
         }
 
 
-      //  public int Count
-       // {
-          //  get
-         //   {
-                // return the count property of the private list
-          //      return mAllFlights.Count;
+        public int Count
+        {
+            get
+            {
+               // return the count property of the private list
+                return mAllFlights.Count;
 
-         //   }
-         //   set
-       //     {
-                // assign the incoming value to the private data member 
+            }
+    set
+            {
+               //  assign the incoming value to the private data member
 
-        //    }
-     //   }
+            }
+        }
         public List<clsFlights> AllFlights
         {// getter send the data to requesting code
             get
@@ -81,13 +81,13 @@ namespace Class_Library
             }
         }
 
-        public Int32 Count
-        {
-            get
-            {
-                return mWidgets.Count;
-            }
-        }
+        //public Int32 Count
+        //{
+        //    get
+        //    {
+        //        return mWidgets.Count;
+        //    }
+        //}
 
 
         public void AvailableFlights(DateTime StartDate, DateTime EndDate)

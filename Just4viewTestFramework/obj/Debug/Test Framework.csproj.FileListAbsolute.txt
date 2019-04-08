@@ -1,0 +1,10 @@
+D:\Final Year\Final year Project\ProjectWork-Just4Views-Cinema\ProjectWork-Just4Views-Cinema\Test Framework\obj\Debug\Test Framework.csproj.CoreCompileInputs.cache
+D:\Final Year\Final year Project\ProjectWork-Just4Views-Cinema\ProjectWork-Just4Views-Cinema\Test Framework\obj\Debug\Test Framework.csprojAssemblyReference.cache
+D:\Final Year\Final year Project\ProjectWork-Just4Views-Cinema\ProjectWork-Just4Views-Cinema\Test Framework\bin\Debug\Test Framework.dll
+D:\Final Year\Final year Project\ProjectWork-Just4Views-Cinema\ProjectWork-Just4Views-Cinema\Test Framework\bin\Debug\Test Framework.pdb
+D:\Final Year\Final year Project\ProjectWork-Just4Views-Cinema\ProjectWork-Just4Views-Cinema\Test Framework\bin\Debug\Class Library.dll
+D:\Final Year\Final year Project\ProjectWork-Just4Views-Cinema\ProjectWork-Just4Views-Cinema\Test Framework\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Final Year\Final year Project\ProjectWork-Just4Views-Cinema\ProjectWork-Just4Views-Cinema\Test Framework\bin\Debug\Class Library.pdb
+D:\Final Year\Final year Project\ProjectWork-Just4Views-Cinema\ProjectWork-Just4Views-Cinema\Test Framework\obj\Debug\Test Framework.csproj.CopyComplete
+D:\Final Year\Final year Project\ProjectWork-Just4Views-Cinema\ProjectWork-Just4Views-Cinema\Test Framework\obj\Debug\Test Framework.dll
+D:\Final Year\Final year Project\ProjectWork-Just4Views-Cinema\ProjectWork-Just4Views-Cinema\Test Framework\obj\Debug\Test Framework.pdb

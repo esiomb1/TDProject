@@ -25,3 +25,18 @@ H:\Desktop\Clothing website 2\Class Library\bin\Debug\Class Library.dll.config
 H:\Desktop\Clothing website 2\Class Library\bin\Debug\Class Library.dll
 H:\Desktop\Clothing website 2\Class Library\bin\Debug\Class Library.pdb
 H:\Desktop\Clothing website 2\Class Library\obj\Debug\ClassLibrary.csproj.CopyComplete
+H:\Desktop\MyWork\Class Library\bin\Debug\Class Library.dll.config
+H:\Desktop\MyWork\Class Library\bin\Debug\Class Library.dll
+H:\Desktop\MyWork\Class Library\bin\Debug\Class Library.pdb
+H:\Desktop\MyWork\Class Library\bin\Debug\EntityFramework.dll
+H:\Desktop\MyWork\Class Library\bin\Debug\System.Data.SQLite.dll
+H:\Desktop\MyWork\Class Library\bin\Debug\System.Data.SQLite.EF6.dll
+H:\Desktop\MyWork\Class Library\bin\Debug\System.Data.SQLite.Linq.dll
+H:\Desktop\MyWork\Class Library\bin\Debug\EntityFramework.xml
+H:\Desktop\MyWork\Class Library\bin\Debug\System.Data.SQLite.xml
+H:\Desktop\MyWork\Class Library\bin\Debug\System.Data.SQLite.dll.config
+H:\Desktop\MyWork\Class Library\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
+H:\Desktop\MyWork\Class Library\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+H:\Desktop\MyWork\Class Library\obj\Debug\ClassLibrary.csproj.CopyComplete
+H:\Desktop\MyWork\Class Library\obj\Debug\Class Library.dll
+H:\Desktop\MyWork\Class Library\obj\Debug\Class Library.pdb

@@ -37,8 +37,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "App_data", "App_data", "{2F
 		App_data\Cart.mdf = App_data\Cart.mdf
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary2", "ClassLibrary2\ClassLibrary2.csproj", "{69309B92-773D-4CCC-8241-E27B7C31C684}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Back end", "Back end\Back end.csproj", "{ED824CEE-3CA1-4F94-84D3-5718964DE93F}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".vs", ".vs", "{D0B30CCC-EB9D-4314-A115-162340137159}"
@@ -60,6 +58,54 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TeamDevelopment", "TeamDeve
 		..\..\Downloads\suo (1) = ..\..\Downloads\suo (1)
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HairCaretesting", "HairCaretesting\HairCaretesting.csproj", "{7A2D854A-D14A-4304-89D6-E16A03BF50B4}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "HairCareWebSite", "HairCareWebSite\", "{6B4EDA04-CDEC-42F2-9BCB-81E55A2AE56D}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_2975"
+		Debug.AspNetCompiler.PhysicalPath = "HairCareWebSite\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_2975\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_2975"
+		Release.AspNetCompiler.PhysicalPath = "HairCareWebSite\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_2975\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "2975"
+		SlnRelativePath = "HairCareWebSite\"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneTesting", "PhoneTestTesting\PhoneTesting.csproj", "{A136CC35-6B1C-4EFC-BF38-87D095A4FAFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Just4ViewTestFramework", "Just4viewTestFramework\Just4ViewTestFramework.csproj", "{2A2FB032-F07A-439C-BF39-DEC5ECAE7DF5}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Just4ViewWebSite", "Just4ViewWebSite\", "{44210152-574B-4DDC-8B3D-8061E84709E8}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_3788"
+		Debug.AspNetCompiler.PhysicalPath = "Just4ViewWebSite\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_3788\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_3788"
+		Release.AspNetCompiler.PhysicalPath = "Just4ViewWebSite\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_3788\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "3788"
+		SlnRelativePath = "Just4ViewWebSite\"
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -78,14 +124,30 @@ Global
 		{79A5D075-29CF-48BC-A6D7-3414038577AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79A5D075-29CF-48BC-A6D7-3414038577AD}.Release|Any CPU.ActiveCfg = Debug|Any CPU
 		{79A5D075-29CF-48BC-A6D7-3414038577AD}.Release|Any CPU.Build.0 = Debug|Any CPU
-		{69309B92-773D-4CCC-8241-E27B7C31C684}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{69309B92-773D-4CCC-8241-E27B7C31C684}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{69309B92-773D-4CCC-8241-E27B7C31C684}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{69309B92-773D-4CCC-8241-E27B7C31C684}.Release|Any CPU.Build.0 = Release|Any CPU
 		{ED824CEE-3CA1-4F94-84D3-5718964DE93F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{ED824CEE-3CA1-4F94-84D3-5718964DE93F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED824CEE-3CA1-4F94-84D3-5718964DE93F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED824CEE-3CA1-4F94-84D3-5718964DE93F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A2D854A-D14A-4304-89D6-E16A03BF50B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A2D854A-D14A-4304-89D6-E16A03BF50B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A2D854A-D14A-4304-89D6-E16A03BF50B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A2D854A-D14A-4304-89D6-E16A03BF50B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B4EDA04-CDEC-42F2-9BCB-81E55A2AE56D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B4EDA04-CDEC-42F2-9BCB-81E55A2AE56D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B4EDA04-CDEC-42F2-9BCB-81E55A2AE56D}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B4EDA04-CDEC-42F2-9BCB-81E55A2AE56D}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{A136CC35-6B1C-4EFC-BF38-87D095A4FAFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A136CC35-6B1C-4EFC-BF38-87D095A4FAFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A136CC35-6B1C-4EFC-BF38-87D095A4FAFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A136CC35-6B1C-4EFC-BF38-87D095A4FAFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A2FB032-F07A-439C-BF39-DEC5ECAE7DF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A2FB032-F07A-439C-BF39-DEC5ECAE7DF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A2FB032-F07A-439C-BF39-DEC5ECAE7DF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A2FB032-F07A-439C-BF39-DEC5ECAE7DF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44210152-574B-4DDC-8B3D-8061E84709E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44210152-574B-4DDC-8B3D-8061E84709E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44210152-574B-4DDC-8B3D-8061E84709E8}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{44210152-574B-4DDC-8B3D-8061E84709E8}.Release|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

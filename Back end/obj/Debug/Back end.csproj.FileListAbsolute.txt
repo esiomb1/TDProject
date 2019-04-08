@@ -16,3 +16,21 @@ H:\Desktop\Clothing website 2\Back end\bin\Debug\Class Library.dll
 H:\Desktop\Clothing website 2\Back end\bin\Debug\Class Library.pdb
 H:\Desktop\Clothing website 2\Back end\bin\Debug\Class Library.dll.config
 H:\Desktop\Clothing website 2\Back end\obj\Debug\Back_end.frmCustomeraSignUp.resources
+H:\Desktop\MyWork\Back end\bin\Debug\Back end.exe.config
+H:\Desktop\MyWork\Back end\bin\Debug\Back end.exe
+H:\Desktop\MyWork\Back end\bin\Debug\Back end.pdb
+H:\Desktop\MyWork\Back end\bin\Debug\Class Library.dll
+H:\Desktop\MyWork\Back end\bin\Debug\EntityFramework.dll
+H:\Desktop\MyWork\Back end\bin\Debug\EntityFramework.SqlServer.dll
+H:\Desktop\MyWork\Back end\bin\Debug\Class Library.pdb
+H:\Desktop\MyWork\Back end\bin\Debug\Class Library.dll.config
+H:\Desktop\MyWork\Back end\bin\Debug\EntityFramework.xml
+H:\Desktop\MyWork\Back end\bin\Debug\EntityFramework.SqlServer.xml
+H:\Desktop\MyWork\Back end\obj\Debug\Back end.csprojAssemblyReference.cache
+H:\Desktop\MyWork\Back end\obj\Debug\Back_end.frmCustomeraSignUp.resources
+H:\Desktop\MyWork\Back end\obj\Debug\Back_end.Properties.Resources.resources
+H:\Desktop\MyWork\Back end\obj\Debug\Back end.csproj.GenerateResource.cache
+H:\Desktop\MyWork\Back end\obj\Debug\Back end.csproj.CoreCompileInputs.cache
+H:\Desktop\MyWork\Back end\obj\Debug\Back end.csproj.CopyComplete
+H:\Desktop\MyWork\Back end\obj\Debug\Back end.exe
+H:\Desktop\MyWork\Back end\obj\Debug\Back end.pdb

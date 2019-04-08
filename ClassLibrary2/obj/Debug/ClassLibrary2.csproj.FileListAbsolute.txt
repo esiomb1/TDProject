@@ -1,0 +1,12 @@
+H:\Desktop\MyWork\ClassLibrary2\bin\Debug\ClassLibrary2.dll.config
+H:\Desktop\MyWork\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+H:\Desktop\MyWork\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+H:\Desktop\MyWork\ClassLibrary2\bin\Debug\EntityFramework.dll
+H:\Desktop\MyWork\ClassLibrary2\bin\Debug\EntityFramework.SqlServer.dll
+H:\Desktop\MyWork\ClassLibrary2\bin\Debug\EntityFramework.xml
+H:\Desktop\MyWork\ClassLibrary2\bin\Debug\EntityFramework.SqlServer.xml
+H:\Desktop\MyWork\ClassLibrary2\obj\Debug\ClassLibrary2.csprojAssemblyReference.cache
+H:\Desktop\MyWork\ClassLibrary2\obj\Debug\ClassLibrary2.csproj.CoreCompileInputs.cache
+H:\Desktop\MyWork\ClassLibrary2\obj\Debug\ClassLibrary2.csproj.CopyComplete
+H:\Desktop\MyWork\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+H:\Desktop\MyWork\ClassLibrary2\obj\Debug\ClassLibrary2.pdb

@@ -1,0 +1,44 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Just4Views.master.cs" Inherits="Just4Views" %>
+
+<!DOCTYPE html>
+
+<html>
+    <head id="Head1" runat="server">
+        <title>Just4Views Cinema</title>
+        <link href="Just4Views.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <form id="form1" runat="server">
+ 
+             <header>
+                Just4Views
+            </header>
+ 
+            <article>
+                Your text here
+                <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+                </asp:ContentPlaceHolder>
+            </article>
+ 
+          
+ 
+            <footer>
+                <link rel="stylesheet" href=https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css>
+                <ul>
+				<li><a href="https://www.facebook.com/kancoal"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+				</li>
+				<li><a href="https://twitter.com/kinstonqx"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+				</li>
+				<li><a href="https://instagram.com/kinstonqx?r=nametag"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+				</li>
+				<li><a href="https://www.linkedin.com/in/nnamdi-kanu-a7b990137/"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+				</li>
+			</ul>
+                
+                <br />
+                <br />
+                 <p>&copy; <%: DateTime.Now.Year %> - Just4Views Cinema </p>
+            </footer>
+        </form>
+    </body>
+</html>

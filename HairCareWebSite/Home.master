@@ -1,0 +1,39 @@
+﻿<%@ Master Language="C#" %>
+
+<!DOCTYPE html>
+
+<script runat="server">
+    
+</script>
+
+<html>
+<head runat="server">
+<link rel="stylesheet" href="~/css/Main.css">
+    <title>Welcome to CEO Hair Care and Beauty</title>
+</head>
+    <body> 
+    <div >
+        <h1 class="starter">Hello, this our first time meeting so allow me to introduce myself...</h1> 
+        <p> I am the CEO of CEOHairUK</p>
+        <p> CEOHairUK is a UK based hairdressing company that specialises in</p>
+        <li> Wig making</li>
+        <li> Sew in Hairstyles</li>
+        <li> Hair colouring</li>
+        <li> Hair styling</li>
+        <li> Tips for hair growth</li>
+        <li> My own health and lifestyle tips</li>
+
+  
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+
+
+    <form id="form1" runat="server">
+   
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+   </div>
+    </form>
+</body>
+</html>
