@@ -9,3 +9,14 @@ H:\Desktop\MyWork\HairCaretesting\bin\Debug\Microsoft.VisualStudio.QualityTools.
 H:\Desktop\MyWork\HairCaretesting\bin\Debug\Class Library.pdb
 H:\Desktop\MyWork\HairCaretesting\bin\Debug\Class Library.dll.config
 H:\Desktop\MyWork\HairCaretesting\obj\Debug\HairCaretesting.csproj.CopyComplete
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\HairCaretesting\bin\Debug\Test Framework.dll
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\HairCaretesting\bin\Debug\Test Framework.pdb
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\HairCaretesting\bin\Debug\Class Library.dll
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\HairCaretesting\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\HairCaretesting\bin\Debug\Class Library.pdb
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\HairCaretesting\bin\Debug\Class Library.dll.config
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\HairCaretesting\obj\Debug\HairCaretesting.csprojAssemblyReference.cache
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\HairCaretesting\obj\Debug\HairCaretesting.csproj.CoreCompileInputs.cache
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\HairCaretesting\obj\Debug\HairCaretesting.csproj.CopyComplete
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\HairCaretesting\obj\Debug\Test Framework.dll
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\HairCaretesting\obj\Debug\Test Framework.pdb

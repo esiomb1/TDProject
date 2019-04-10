@@ -95,10 +95,12 @@
     <Compile Include="clsPassengerCollection.cs" />
     <Compile Include="clsPayment.cs" />
     <Compile Include="clsPaymentCollection.cs" />
+    <Compile Include="clsPhone.cs" />
     <Compile Include="clsPhoneCustomer.cs" />
     <Compile Include="clsPhoneCustomerCollection.cs" />
     <Compile Include="clsShowing.cs" />
     <Compile Include="clsShowingCollection.cs" />
+    <Compile Include="clsStock.cs" />
     <Compile Include="clsTicket.cs" />
     <Compile Include="clsWidget.cs" />
     <Compile Include="LoginSignUpDataSet.Designer.cs">

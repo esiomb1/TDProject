@@ -40,3 +40,18 @@ H:\Desktop\MyWork\Class Library\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.
 H:\Desktop\MyWork\Class Library\obj\Debug\ClassLibrary.csproj.CopyComplete
 H:\Desktop\MyWork\Class Library\obj\Debug\Class Library.dll
 H:\Desktop\MyWork\Class Library\obj\Debug\Class Library.pdb
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\Class Library\bin\Debug\Class Library.dll.config
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\Class Library\bin\Debug\Class Library.dll
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\Class Library\bin\Debug\Class Library.pdb
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\Class Library\bin\Debug\EntityFramework.dll
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\Class Library\bin\Debug\System.Data.SQLite.dll
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\Class Library\bin\Debug\System.Data.SQLite.EF6.dll
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\Class Library\bin\Debug\System.Data.SQLite.Linq.dll
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\Class Library\bin\Debug\EntityFramework.xml
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\Class Library\bin\Debug\System.Data.SQLite.xml
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\Class Library\bin\Debug\System.Data.SQLite.dll.config
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\Class Library\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\Class Library\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\Class Library\obj\Debug\ClassLibrary.csproj.CopyComplete
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\Class Library\obj\Debug\Class Library.dll
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\Class Library\obj\Debug\Class Library.pdb

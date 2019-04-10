@@ -9,3 +9,14 @@ H:\Desktop\MyWork\PhoneTestTesting\bin\Debug\Microsoft.VisualStudio.QualityTools
 H:\Desktop\MyWork\PhoneTestTesting\bin\Debug\Class Library.pdb
 H:\Desktop\MyWork\PhoneTestTesting\bin\Debug\Class Library.dll.config
 H:\Desktop\MyWork\PhoneTestTesting\obj\Debug\PhoneTesting.csproj.CopyComplete
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\PhoneTestTesting\bin\Debug\Test Framework.dll
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\PhoneTestTesting\bin\Debug\Test Framework.pdb
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\PhoneTestTesting\bin\Debug\Class Library.dll
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\PhoneTestTesting\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\PhoneTestTesting\bin\Debug\Class Library.pdb
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\PhoneTestTesting\bin\Debug\Class Library.dll.config
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\PhoneTestTesting\obj\Debug\PhoneTesting.csprojAssemblyReference.cache
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\PhoneTestTesting\obj\Debug\PhoneTesting.csproj.CoreCompileInputs.cache
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\PhoneTestTesting\obj\Debug\PhoneTesting.csproj.CopyComplete
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\PhoneTestTesting\obj\Debug\Test Framework.dll
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\PhoneTestTesting\obj\Debug\Test Framework.pdb

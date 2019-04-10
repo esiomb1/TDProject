@@ -77,7 +77,6 @@
     <Compile Include="tstItineraryCollection.cs" />
     <Compile Include="tstPassenger.cs" />
     <Compile Include="tstPassengerCollection.cs" />
-    <Compile Include="tstPhoneCustomer.cs" />
     <Compile Include="tsteBookings.cs" />
     <Compile Include="tsteBookingsCollection.cs" />
     <Compile Include="tsteCustomer.cs" />

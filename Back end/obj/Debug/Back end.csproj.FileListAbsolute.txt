@@ -34,3 +34,21 @@ H:\Desktop\MyWork\Back end\obj\Debug\Back end.csproj.CoreCompileInputs.cache
 H:\Desktop\MyWork\Back end\obj\Debug\Back end.csproj.CopyComplete
 H:\Desktop\MyWork\Back end\obj\Debug\Back end.exe
 H:\Desktop\MyWork\Back end\obj\Debug\Back end.pdb
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\Back end\bin\Debug\Back end.exe.config
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\Back end\bin\Debug\Back end.exe
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\Back end\bin\Debug\Back end.pdb
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\Back end\bin\Debug\Class Library.dll
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\Back end\bin\Debug\EntityFramework.dll
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\Back end\bin\Debug\EntityFramework.SqlServer.dll
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\Back end\bin\Debug\Class Library.pdb
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\Back end\bin\Debug\Class Library.dll.config
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\Back end\bin\Debug\EntityFramework.xml
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\Back end\bin\Debug\EntityFramework.SqlServer.xml
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\Back end\obj\Debug\Back end.csprojAssemblyReference.cache
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\Back end\obj\Debug\Back_end.frmCustomeraSignUp.resources
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\Back end\obj\Debug\Back_end.Properties.Resources.resources
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\Back end\obj\Debug\Back end.csproj.GenerateResource.cache
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\Back end\obj\Debug\Back end.csproj.CoreCompileInputs.cache
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\Back end\obj\Debug\Back end.csproj.CopyComplete
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\Back end\obj\Debug\Back end.exe
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\Back end\obj\Debug\Back end.pdb
