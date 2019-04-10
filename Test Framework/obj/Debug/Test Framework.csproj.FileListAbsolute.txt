@@ -77,3 +77,24 @@ H:\Desktop\MyWork\Test Framework\bin\Debug\EntityFramework.SqlServer.xml
 H:\Desktop\MyWork\Test Framework\bin\Debug\System.Data.SQLite.xml
 H:\Desktop\MyWork\Test Framework\bin\Debug\System.Data.SQLite.dll.config
 H:\Desktop\MyWork\Test Framework\obj\Debug\Test Framework.csproj.CopyComplete
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\Test Framework\obj\Debug\Test Framework.csprojAssemblyReference.cache
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\Test Framework\obj\Debug\Test Framework.csproj.CoreCompileInputs.cache
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\Test Framework\obj\Debug\Test Framework.dll
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\Test Framework\obj\Debug\Test Framework.pdb
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\Test Framework\bin\Debug\Test Framework.dll.config
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\Test Framework\bin\Debug\Test Framework.dll
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\Test Framework\bin\Debug\Test Framework.pdb
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\Test Framework\bin\Debug\Class Library.dll
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\Test Framework\bin\Debug\EntityFramework.dll
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\Test Framework\bin\Debug\EntityFramework.SqlServer.dll
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\Test Framework\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\Test Framework\bin\Debug\System.Data.SQLite.dll
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\Test Framework\bin\Debug\System.Data.SQLite.EF6.dll
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\Test Framework\bin\Debug\System.Data.SQLite.Linq.dll
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\Test Framework\bin\Debug\Class Library.pdb
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\Test Framework\bin\Debug\Class Library.dll.config
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\Test Framework\bin\Debug\EntityFramework.xml
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\Test Framework\bin\Debug\EntityFramework.SqlServer.xml
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\Test Framework\bin\Debug\System.Data.SQLite.xml
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\Test Framework\bin\Debug\System.Data.SQLite.dll.config
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\Test Framework\obj\Debug\Test Framework.csproj.CopyComplete

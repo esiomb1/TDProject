@@ -142,7 +142,7 @@ namespace Class_Library
             //add the parameter for the customer id to search for 
             DB.AddParameter("@CustomerID", CustomerID);
             //execute the stored procedure 
-            DB.Execute("sproc_CustomerTbl_FilterByCustomerID");
+            DB.Execute("sproc_tblPhoneCustomer_FilterByCustomerID");
             //if one record is found (there should be either one or zero)
             if (DB.Count == 1)
             {

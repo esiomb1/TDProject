@@ -58,6 +58,8 @@
     <Compile Include="tstOrderCollection.cs" />
     <Compile Include="tstPhoneCustomer.cs" />
     <Compile Include="tstPhoneCustomerCollection.cs" />
+    <Compile Include="tstPhone.cs" />
+    <Compile Include="tstStock.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Class Library\ClassLibrary.csproj">

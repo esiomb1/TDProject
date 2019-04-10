@@ -19,3 +19,14 @@ H:\Desktop\MyWork\Just4viewTestFramework\obj\Debug\Just4ViewTestFramework.csproj
 H:\Desktop\MyWork\Just4viewTestFramework\obj\Debug\Just4ViewTestFramework.csproj.CopyComplete
 H:\Desktop\MyWork\Just4viewTestFramework\obj\Debug\Test Framework.dll
 H:\Desktop\MyWork\Just4viewTestFramework\obj\Debug\Test Framework.pdb
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\Just4viewTestFramework\bin\Debug\Test Framework.dll
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\Just4viewTestFramework\bin\Debug\Test Framework.pdb
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\Just4viewTestFramework\bin\Debug\Class Library.dll
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\Just4viewTestFramework\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\Just4viewTestFramework\bin\Debug\Class Library.pdb
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\Just4viewTestFramework\bin\Debug\Class Library.dll.config
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\Just4viewTestFramework\obj\Debug\Just4ViewTestFramework.csprojAssemblyReference.cache
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\Just4viewTestFramework\obj\Debug\Just4ViewTestFramework.csproj.CoreCompileInputs.cache
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\Just4viewTestFramework\obj\Debug\Just4ViewTestFramework.csproj.CopyComplete
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\Just4viewTestFramework\obj\Debug\Test Framework.dll
+\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\Just4viewTestFramework\obj\Debug\Test Framework.pdb
