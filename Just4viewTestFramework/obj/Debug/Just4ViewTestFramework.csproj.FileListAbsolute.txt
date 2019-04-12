@@ -30,3 +30,14 @@ H:\Desktop\MyWork\Just4viewTestFramework\obj\Debug\Test Framework.pdb
 \\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\Just4viewTestFramework\obj\Debug\Just4ViewTestFramework.csproj.CopyComplete
 \\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\Just4viewTestFramework\obj\Debug\Test Framework.dll
 \\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\Just4viewTestFramework\obj\Debug\Test Framework.pdb
+C:\Users\p16200157\Source\Repos\TDProject\Just4viewTestFramework\bin\Debug\Test Framework.dll
+C:\Users\p16200157\Source\Repos\TDProject\Just4viewTestFramework\bin\Debug\Test Framework.pdb
+C:\Users\p16200157\Source\Repos\TDProject\Just4viewTestFramework\bin\Debug\Class Library.dll
+C:\Users\p16200157\Source\Repos\TDProject\Just4viewTestFramework\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\p16200157\Source\Repos\TDProject\Just4viewTestFramework\bin\Debug\Class Library.pdb
+C:\Users\p16200157\Source\Repos\TDProject\Just4viewTestFramework\bin\Debug\Class Library.dll.config
+C:\Users\p16200157\Source\Repos\TDProject\Just4viewTestFramework\obj\Debug\Just4ViewTestFramework.csprojAssemblyReference.cache
+C:\Users\p16200157\Source\Repos\TDProject\Just4viewTestFramework\obj\Debug\Just4ViewTestFramework.csproj.CoreCompileInputs.cache
+C:\Users\p16200157\Source\Repos\TDProject\Just4viewTestFramework\obj\Debug\Just4ViewTestFramework.csproj.CopyComplete
+C:\Users\p16200157\Source\Repos\TDProject\Just4viewTestFramework\obj\Debug\Test Framework.dll
+C:\Users\p16200157\Source\Repos\TDProject\Just4viewTestFramework\obj\Debug\Test Framework.pdb

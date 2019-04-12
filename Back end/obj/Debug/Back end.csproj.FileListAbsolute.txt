@@ -52,3 +52,21 @@ H:\Desktop\MyWork\Back end\obj\Debug\Back end.pdb
 \\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\Back end\obj\Debug\Back end.csproj.CopyComplete
 \\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\Back end\obj\Debug\Back end.exe
 \\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\Back end\obj\Debug\Back end.pdb
+C:\Users\p16200157\Source\Repos\TDProject\Back end\bin\Debug\Back end.exe.config
+C:\Users\p16200157\Source\Repos\TDProject\Back end\bin\Debug\Back end.exe
+C:\Users\p16200157\Source\Repos\TDProject\Back end\bin\Debug\Back end.pdb
+C:\Users\p16200157\Source\Repos\TDProject\Back end\bin\Debug\Class Library.dll
+C:\Users\p16200157\Source\Repos\TDProject\Back end\bin\Debug\EntityFramework.dll
+C:\Users\p16200157\Source\Repos\TDProject\Back end\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\p16200157\Source\Repos\TDProject\Back end\bin\Debug\Class Library.pdb
+C:\Users\p16200157\Source\Repos\TDProject\Back end\bin\Debug\Class Library.dll.config
+C:\Users\p16200157\Source\Repos\TDProject\Back end\bin\Debug\EntityFramework.xml
+C:\Users\p16200157\Source\Repos\TDProject\Back end\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\p16200157\Source\Repos\TDProject\Back end\obj\Debug\Back end.csprojAssemblyReference.cache
+C:\Users\p16200157\Source\Repos\TDProject\Back end\obj\Debug\Back_end.frmCustomeraSignUp.resources
+C:\Users\p16200157\Source\Repos\TDProject\Back end\obj\Debug\Back_end.Properties.Resources.resources
+C:\Users\p16200157\Source\Repos\TDProject\Back end\obj\Debug\Back end.csproj.GenerateResource.cache
+C:\Users\p16200157\Source\Repos\TDProject\Back end\obj\Debug\Back end.csproj.CoreCompileInputs.cache
+C:\Users\p16200157\Source\Repos\TDProject\Back end\obj\Debug\Back end.csproj.CopyComplete
+C:\Users\p16200157\Source\Repos\TDProject\Back end\obj\Debug\Back end.exe
+C:\Users\p16200157\Source\Repos\TDProject\Back end\obj\Debug\Back end.pdb

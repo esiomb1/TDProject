@@ -102,6 +102,20 @@ namespace Test_Framework
         }
 
         [TestMethod]
+        public void StockIDPropertyOK()
+        {
+            //create an instance of the class we want to create
+            clsPhone AnPhone = new clsPhone();
+            //create some test data to assign to the property
+            int TestData = 60;
+            //assign the data to the property
+            AnPhone.StockID = TestData;
+            //test to see that the two values are the same 
+            Assert.AreEqual(AnPhone.StockID, TestData);
+
+        }
+
+        [TestMethod]
         public void FindMethodOK()
         {
             //create an instance of the class we want to create
@@ -231,6 +245,26 @@ namespace Test_Framework
             Assert.IsTrue(OK);
         }
 
+        public void TestStockIDFound()
+        {
+            //create an instance of the class we want to create
+            clsPhone AnPhone = new clsPhone();
+            //boolean variable to store the result of the search 
+            Boolean Found = false;
+            //boolean variable to record if data is OK (assume it is)
+            Boolean OK = true;
+            //create some test data to use with the method 
+            int PhoneID = 3;
+            //invoke the method 
+            Found = AnPhone.Find(PhoneID);
+            //check the Price
+            if (AnPhone.StockID !=  60)
+            {
+                OK = false;
+            }
+            //test to see that the result is correct
+            Assert.IsTrue(OK);
+        }
         [TestMethod]
         public void TestActiveFound()
         {

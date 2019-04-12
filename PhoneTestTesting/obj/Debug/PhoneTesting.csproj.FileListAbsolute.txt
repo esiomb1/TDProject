@@ -20,3 +20,14 @@ H:\Desktop\MyWork\PhoneTestTesting\obj\Debug\PhoneTesting.csproj.CopyComplete
 \\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\PhoneTestTesting\obj\Debug\PhoneTesting.csproj.CopyComplete
 \\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\PhoneTestTesting\obj\Debug\Test Framework.dll
 \\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\PhoneTestTesting\obj\Debug\Test Framework.pdb
+C:\Users\p16200157\Source\Repos\TDProject\PhoneTestTesting\bin\Debug\Test Framework.dll
+C:\Users\p16200157\Source\Repos\TDProject\PhoneTestTesting\bin\Debug\Test Framework.pdb
+C:\Users\p16200157\Source\Repos\TDProject\PhoneTestTesting\bin\Debug\Class Library.dll
+C:\Users\p16200157\Source\Repos\TDProject\PhoneTestTesting\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\p16200157\Source\Repos\TDProject\PhoneTestTesting\bin\Debug\Class Library.pdb
+C:\Users\p16200157\Source\Repos\TDProject\PhoneTestTesting\bin\Debug\Class Library.dll.config
+C:\Users\p16200157\Source\Repos\TDProject\PhoneTestTesting\obj\Debug\PhoneTesting.csprojAssemblyReference.cache
+C:\Users\p16200157\Source\Repos\TDProject\PhoneTestTesting\obj\Debug\PhoneTesting.csproj.CoreCompileInputs.cache
+C:\Users\p16200157\Source\Repos\TDProject\PhoneTestTesting\obj\Debug\PhoneTesting.csproj.CopyComplete
+C:\Users\p16200157\Source\Repos\TDProject\PhoneTestTesting\obj\Debug\Test Framework.dll
+C:\Users\p16200157\Source\Repos\TDProject\PhoneTestTesting\obj\Debug\Test Framework.pdb

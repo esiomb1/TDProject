@@ -20,3 +20,14 @@ H:\Desktop\MyWork\HairCaretesting\obj\Debug\HairCaretesting.csproj.CopyComplete
 \\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\HairCaretesting\obj\Debug\HairCaretesting.csproj.CopyComplete
 \\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\HairCaretesting\obj\Debug\Test Framework.dll
 \\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\Year 3\Mobile\HairCaretesting\obj\Debug\Test Framework.pdb
+C:\Users\p16200157\Source\Repos\TDProject\HairCaretesting\bin\Debug\Test Framework.dll
+C:\Users\p16200157\Source\Repos\TDProject\HairCaretesting\bin\Debug\Test Framework.pdb
+C:\Users\p16200157\Source\Repos\TDProject\HairCaretesting\bin\Debug\Class Library.dll
+C:\Users\p16200157\Source\Repos\TDProject\HairCaretesting\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\p16200157\Source\Repos\TDProject\HairCaretesting\bin\Debug\Class Library.pdb
+C:\Users\p16200157\Source\Repos\TDProject\HairCaretesting\bin\Debug\Class Library.dll.config
+C:\Users\p16200157\Source\Repos\TDProject\HairCaretesting\obj\Debug\HairCaretesting.csprojAssemblyReference.cache
+C:\Users\p16200157\Source\Repos\TDProject\HairCaretesting\obj\Debug\HairCaretesting.csproj.CoreCompileInputs.cache
+C:\Users\p16200157\Source\Repos\TDProject\HairCaretesting\obj\Debug\HairCaretesting.csproj.CopyComplete
+C:\Users\p16200157\Source\Repos\TDProject\HairCaretesting\obj\Debug\Test Framework.dll
+C:\Users\p16200157\Source\Repos\TDProject\HairCaretesting\obj\Debug\Test Framework.pdb
