@@ -35,7 +35,8 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WebSite2", "WebSite2\", "{7
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "App_data", "App_data", "{2F4689A0-E604-4CA6-BBB9-75918424BACF}"
 	ProjectSection(SolutionItems) = preProject
-		App_data\Cart.mdf = App_data\Cart.mdf
+		App_data\Just4Views.mdf = App_data\Just4Views.mdf
+		App_data\Just4Views_log.ldf = App_data\Just4Views_log.ldf
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Back end", "Back end\Back end.csproj", "{ED824CEE-3CA1-4F94-84D3-5718964DE93F}"

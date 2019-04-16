@@ -42,3 +42,14 @@ H:\Desktop\work ne\HairCaretesting\obj\Debug\HairCaretesting.csproj.CoreCompileI
 H:\Desktop\work ne\HairCaretesting\obj\Debug\HairCaretesting.csproj.CopyComplete
 H:\Desktop\work ne\HairCaretesting\obj\Debug\Test Framework.dll
 H:\Desktop\work ne\HairCaretesting\obj\Debug\Test Framework.pdb
+H:\Documents\Gitty\HairCaretesting\bin\Debug\Test Framework.dll
+H:\Documents\Gitty\HairCaretesting\bin\Debug\Test Framework.pdb
+H:\Documents\Gitty\HairCaretesting\bin\Debug\Class Library.dll
+H:\Documents\Gitty\HairCaretesting\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+H:\Documents\Gitty\HairCaretesting\bin\Debug\Class Library.pdb
+H:\Documents\Gitty\HairCaretesting\bin\Debug\Class Library.dll.config
+H:\Documents\Gitty\HairCaretesting\obj\Debug\HairCaretesting.csprojAssemblyReference.cache
+H:\Documents\Gitty\HairCaretesting\obj\Debug\HairCaretesting.csproj.CoreCompileInputs.cache
+H:\Documents\Gitty\HairCaretesting\obj\Debug\HairCaretesting.csproj.CopyComplete
+H:\Documents\Gitty\HairCaretesting\obj\Debug\Test Framework.dll
+H:\Documents\Gitty\HairCaretesting\obj\Debug\Test Framework.pdb

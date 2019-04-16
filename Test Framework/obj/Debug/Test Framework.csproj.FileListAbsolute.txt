@@ -119,3 +119,24 @@ C:\Users\p16200157\Source\Repos\TDProject\Test Framework\obj\Debug\Test Framewor
 C:\Users\p16200157\Source\Repos\TDProject\Test Framework\obj\Debug\Test Framework.csproj.CopyComplete
 C:\Users\p16200157\Source\Repos\TDProject\Test Framework\obj\Debug\Test Framework.dll
 C:\Users\p16200157\Source\Repos\TDProject\Test Framework\obj\Debug\Test Framework.pdb
+H:\Documents\Gitty\Test Framework\bin\Debug\Test Framework.dll.config
+H:\Documents\Gitty\Test Framework\bin\Debug\Test Framework.dll
+H:\Documents\Gitty\Test Framework\bin\Debug\Test Framework.pdb
+H:\Documents\Gitty\Test Framework\bin\Debug\Class Library.dll
+H:\Documents\Gitty\Test Framework\bin\Debug\EntityFramework.dll
+H:\Documents\Gitty\Test Framework\bin\Debug\EntityFramework.SqlServer.dll
+H:\Documents\Gitty\Test Framework\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+H:\Documents\Gitty\Test Framework\bin\Debug\System.Data.SQLite.dll
+H:\Documents\Gitty\Test Framework\bin\Debug\System.Data.SQLite.EF6.dll
+H:\Documents\Gitty\Test Framework\bin\Debug\System.Data.SQLite.Linq.dll
+H:\Documents\Gitty\Test Framework\bin\Debug\Class Library.pdb
+H:\Documents\Gitty\Test Framework\bin\Debug\Class Library.dll.config
+H:\Documents\Gitty\Test Framework\bin\Debug\EntityFramework.xml
+H:\Documents\Gitty\Test Framework\bin\Debug\EntityFramework.SqlServer.xml
+H:\Documents\Gitty\Test Framework\bin\Debug\System.Data.SQLite.xml
+H:\Documents\Gitty\Test Framework\bin\Debug\System.Data.SQLite.dll.config
+H:\Documents\Gitty\Test Framework\obj\Debug\Test Framework.csprojAssemblyReference.cache
+H:\Documents\Gitty\Test Framework\obj\Debug\Test Framework.csproj.CoreCompileInputs.cache
+H:\Documents\Gitty\Test Framework\obj\Debug\Test Framework.csproj.CopyComplete
+H:\Documents\Gitty\Test Framework\obj\Debug\Test Framework.dll
+H:\Documents\Gitty\Test Framework\obj\Debug\Test Framework.pdb

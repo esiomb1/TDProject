@@ -70,3 +70,21 @@ C:\Users\p16200157\Source\Repos\TDProject\Back end\obj\Debug\Back end.csproj.Cor
 C:\Users\p16200157\Source\Repos\TDProject\Back end\obj\Debug\Back end.csproj.CopyComplete
 C:\Users\p16200157\Source\Repos\TDProject\Back end\obj\Debug\Back end.exe
 C:\Users\p16200157\Source\Repos\TDProject\Back end\obj\Debug\Back end.pdb
+H:\Documents\Gitty\Back end\bin\Debug\Back end.exe.config
+H:\Documents\Gitty\Back end\bin\Debug\Back end.exe
+H:\Documents\Gitty\Back end\bin\Debug\Back end.pdb
+H:\Documents\Gitty\Back end\bin\Debug\Class Library.dll
+H:\Documents\Gitty\Back end\bin\Debug\EntityFramework.dll
+H:\Documents\Gitty\Back end\bin\Debug\EntityFramework.SqlServer.dll
+H:\Documents\Gitty\Back end\bin\Debug\Class Library.pdb
+H:\Documents\Gitty\Back end\bin\Debug\Class Library.dll.config
+H:\Documents\Gitty\Back end\bin\Debug\EntityFramework.xml
+H:\Documents\Gitty\Back end\bin\Debug\EntityFramework.SqlServer.xml
+H:\Documents\Gitty\Back end\obj\Debug\Back end.csprojAssemblyReference.cache
+H:\Documents\Gitty\Back end\obj\Debug\Back_end.frmCustomeraSignUp.resources
+H:\Documents\Gitty\Back end\obj\Debug\Back_end.Properties.Resources.resources
+H:\Documents\Gitty\Back end\obj\Debug\Back end.csproj.GenerateResource.cache
+H:\Documents\Gitty\Back end\obj\Debug\Back end.csproj.CoreCompileInputs.cache
+H:\Documents\Gitty\Back end\obj\Debug\Back end.csproj.CopyComplete
+H:\Documents\Gitty\Back end\obj\Debug\Back end.exe
+H:\Documents\Gitty\Back end\obj\Debug\Back end.pdb

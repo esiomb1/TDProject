@@ -31,3 +31,14 @@ C:\Users\p16200157\Source\Repos\TDProject\PhoneTestTesting\obj\Debug\PhoneTestin
 C:\Users\p16200157\Source\Repos\TDProject\PhoneTestTesting\obj\Debug\PhoneTesting.csproj.CopyComplete
 C:\Users\p16200157\Source\Repos\TDProject\PhoneTestTesting\obj\Debug\Test Framework.dll
 C:\Users\p16200157\Source\Repos\TDProject\PhoneTestTesting\obj\Debug\Test Framework.pdb
+H:\Documents\Gitty\PhoneTestTesting\bin\Debug\Test Framework.dll
+H:\Documents\Gitty\PhoneTestTesting\bin\Debug\Test Framework.pdb
+H:\Documents\Gitty\PhoneTestTesting\bin\Debug\Class Library.dll
+H:\Documents\Gitty\PhoneTestTesting\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+H:\Documents\Gitty\PhoneTestTesting\bin\Debug\Class Library.pdb
+H:\Documents\Gitty\PhoneTestTesting\bin\Debug\Class Library.dll.config
+H:\Documents\Gitty\PhoneTestTesting\obj\Debug\PhoneTesting.csprojAssemblyReference.cache
+H:\Documents\Gitty\PhoneTestTesting\obj\Debug\PhoneTesting.csproj.CoreCompileInputs.cache
+H:\Documents\Gitty\PhoneTestTesting\obj\Debug\PhoneTesting.csproj.CopyComplete
+H:\Documents\Gitty\PhoneTestTesting\obj\Debug\Test Framework.dll
+H:\Documents\Gitty\PhoneTestTesting\obj\Debug\Test Framework.pdb

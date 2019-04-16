@@ -41,3 +41,14 @@ C:\Users\p16200157\Source\Repos\TDProject\Just4viewTestFramework\obj\Debug\Just4
 C:\Users\p16200157\Source\Repos\TDProject\Just4viewTestFramework\obj\Debug\Just4ViewTestFramework.csproj.CopyComplete
 C:\Users\p16200157\Source\Repos\TDProject\Just4viewTestFramework\obj\Debug\Test Framework.dll
 C:\Users\p16200157\Source\Repos\TDProject\Just4viewTestFramework\obj\Debug\Test Framework.pdb
+H:\Documents\Gitty\Just4viewTestFramework\bin\Debug\Test Framework.dll
+H:\Documents\Gitty\Just4viewTestFramework\bin\Debug\Test Framework.pdb
+H:\Documents\Gitty\Just4viewTestFramework\bin\Debug\Class Library.dll
+H:\Documents\Gitty\Just4viewTestFramework\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+H:\Documents\Gitty\Just4viewTestFramework\bin\Debug\Class Library.pdb
+H:\Documents\Gitty\Just4viewTestFramework\bin\Debug\Class Library.dll.config
+H:\Documents\Gitty\Just4viewTestFramework\obj\Debug\Just4ViewTestFramework.csprojAssemblyReference.cache
+H:\Documents\Gitty\Just4viewTestFramework\obj\Debug\Just4ViewTestFramework.csproj.CoreCompileInputs.cache
+H:\Documents\Gitty\Just4viewTestFramework\obj\Debug\Just4ViewTestFramework.csproj.CopyComplete
+H:\Documents\Gitty\Just4viewTestFramework\obj\Debug\Test Framework.dll
+H:\Documents\Gitty\Just4viewTestFramework\obj\Debug\Test Framework.pdb

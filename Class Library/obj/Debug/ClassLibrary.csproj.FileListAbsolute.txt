@@ -85,3 +85,18 @@ H:\Desktop\work ne\Class Library\obj\Debug\ClassLibrary.csproj.CoreCompileInputs
 H:\Desktop\work ne\Class Library\obj\Debug\ClassLibrary.csproj.CopyComplete
 H:\Desktop\work ne\Class Library\obj\Debug\Class Library.dll
 H:\Desktop\work ne\Class Library\obj\Debug\Class Library.pdb
+H:\Documents\Gitty\Class Library\bin\Debug\Class Library.dll.config
+H:\Documents\Gitty\Class Library\bin\Debug\Class Library.dll
+H:\Documents\Gitty\Class Library\bin\Debug\Class Library.pdb
+H:\Documents\Gitty\Class Library\bin\Debug\EntityFramework.dll
+H:\Documents\Gitty\Class Library\bin\Debug\System.Data.SQLite.dll
+H:\Documents\Gitty\Class Library\bin\Debug\System.Data.SQLite.EF6.dll
+H:\Documents\Gitty\Class Library\bin\Debug\System.Data.SQLite.Linq.dll
+H:\Documents\Gitty\Class Library\bin\Debug\EntityFramework.xml
+H:\Documents\Gitty\Class Library\bin\Debug\System.Data.SQLite.xml
+H:\Documents\Gitty\Class Library\bin\Debug\System.Data.SQLite.dll.config
+H:\Documents\Gitty\Class Library\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
+H:\Documents\Gitty\Class Library\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+H:\Documents\Gitty\Class Library\obj\Debug\ClassLibrary.csproj.CopyComplete
+H:\Documents\Gitty\Class Library\obj\Debug\Class Library.dll
+H:\Documents\Gitty\Class Library\obj\Debug\Class Library.pdb
