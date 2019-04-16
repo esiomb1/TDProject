@@ -7,7 +7,16 @@ namespace Test_Framework
     [TestClass]
     public class tstPhoneCustomer
     {
-        private int PhoneCustomerNo;
+       
+
+
+        //good test data 
+        //create some test data to pass to the method 
+        int CustomerID = 1;
+        string FirstName = "Jack";
+        string Surname = "Pierce";
+        string Postcode = "le1 3pw";
+        string Address = "46 Oxford street";
 
         [TestMethod]
         public void InstanceOK()
@@ -64,11 +73,9 @@ namespace Test_Framework
             //create an instance of the class we want to create
             clsPhoneCustomer APhoneCustomer = new clsPhoneCustomer();
             //create a string variable to store the results of the validation 
-            String Error = "";
-            //create some test data to test the method 
-            string SomeAPhoneCustomer = "Jake";
-            //invoke the method 
-            Error = APhoneCustomer.Valid(SomeAPhoneCustomer);
+            String Error = "";            
+            //invoke the method                               
+            Error = APhoneCustomer.Valid(CustomerID,FirstName,Surname,Address,Postcode);
             //test to see that the result is OK i.e there was no error message returned 
             Assert.AreEqual(Error, "");
         }
@@ -111,6 +118,9 @@ namespace Test_Framework
             //create an instance of the class
             clsPhoneCustomer APhoneCustomer = new clsPhoneCustomer();
             //create a string variable to store the result of the validation 
+            //boolean variable to store the result of the validation 
+            Boolean OK = false;
+            //create some test data to pass to the method           
             String Error = "";
             string SomePhoneCustomer = " ss ";
             Error = APhoneCustomer.Valid(SomePhoneCustomer);

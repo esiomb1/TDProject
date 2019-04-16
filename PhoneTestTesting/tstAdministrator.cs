@@ -7,7 +7,12 @@ namespace Test_Framework
     [TestClass]
     public class tstAdministrator
     {
-        [TestMethod]
+
+        int AdministratorID = 10;
+        int CustomerID = 1;
+        int PhoneID = 3;
+        //private data member for the Admini ID property
+        
         public void InstanceOK()
         {
             //create an instance of the class we want to create 
@@ -32,22 +37,38 @@ namespace Test_Framework
             Assert.AreEqual(AnAdministrator.Active, TestData);
         }
 
-
-
-
-        [TestMethod]
-        public void DateAddedPropertyOK()
-
+        /*[TestMethod]
+        public void AdministratorIDMinLessOne()
         {
             //create an instance of the class we want to create 
             clsAdministrator AnAdministrator = new clsAdministrator();
-            //create some test data to assign to the property 
-            DateTime TestData = DateTime.Now.Date;
-            //assign the data to the property
-            AnAdministrator.DateAdded = TestData;
-            //test to see that it exists 
-            Assert.AreEqual(AnAdministrator.DateAdded, TestData);
+            //string variable to store any error message
+            String Error = "";
+            //create some test data to pass to the method
+            int AdministratorID = ""; //this should trigger an error
+            //invoke the method
+            Error = AnAdministrator.Valid(AdministratorID, CustomerID, PhoneID);
+            //test to see that the result is correct
+            Assert.AreNotEqual(Error, "");
+        }*/
+
+
+        [TestMethod]
+        public void ValidMethodOK()
+        {
+            //create an instance of the class we want to create 
+            clsAdministrator AnAdministrator = new clsAdministrator();
+            //string variable to store any error message
+            String Error = "";
+            //invoke the method
+            Error = AnAdministrator.Valid(AdministratorID,CustomerID,PhoneID);
+            //test to see that the result is correct
+            Assert.AreEqual(Error, "");
         }
+
+
+
+
 
         [TestMethod]
         public void CustomerIDPropertyOK()

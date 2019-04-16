@@ -6,7 +6,15 @@ namespace Test_Framework
 {
     [TestClass]
     public class tstPhone
-    {      
+    {
+        //good test data 
+        //create some test data to pass to the method 
+        string Colour = "Red";
+        string PhoneMake = "Apple";
+        string PhoneModel = "iPhone 8 Plus";
+        string Price = "899";
+        string StockID = "60";
+
         [TestMethod]
         public void InstanceOK()
         {
@@ -28,6 +36,22 @@ namespace Test_Framework
             //test to see that the two values are the same 
             Assert.AreEqual(AnPhone.Active, TestData);
         }
+
+        [TestMethod]
+        public void ColourMinLessOne()
+        {
+            //create an instance of the class we want to create 
+            clsPhone AnPhone = new clsPhone();
+            //string variable to store any error message 
+            String Error = ""; //this should trigger an error 
+            //create some test data to pass to the method
+            string Colour = "";//this should trigger an error 
+            //invoke the method 
+            Error = AnPhone.Valid(Colour, PhoneMake, PhoneModel, Price, StockID);
+            //test to see that the rsult is correct 
+            Assert.AreNotEqual(Error, "");
+        }
+
 
         [TestMethod]
         public void PhoneIDPropertyOK()
@@ -245,6 +269,8 @@ namespace Test_Framework
             Assert.IsTrue(OK);
         }
 
+        [TestMethod]
+
         public void TestStockIDFound()
         {
             //create an instance of the class we want to create
@@ -287,5 +313,23 @@ namespace Test_Framework
             Assert.IsTrue(OK);
 
         }
+
+        [TestMethod]
+        public void ValidMethodOK()
+        {
+            //create an instance of the class we want to create
+            clsPhone AnPhone = new clsPhone(); ;
+            //string variable to store any error message
+            String Error = "";
+            //invoke the method
+            Error = AnPhone.Valid(Colour,PhoneMake,PhoneModel,Price,StockID);
+            //test to see that the result is correct
+            Assert.AreEqual(Error, "");
+        }
+
+
+        
+
+
     }
 }

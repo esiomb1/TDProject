@@ -145,5 +145,19 @@ namespace Class_Library
 
             }
         }
+
+        public string Valid(string colour, string phoneMake, string phoneModel, string price, string stockID)
+        {
+            //creare a string varable to store the error 
+            string Error = "";
+            //if the Colour is bank
+            if (Colour.Length == 0)
+            {
+                //record the error 
+                Error = Error + "The Colour cannot be blank : ";
+            }
+
+            return Error;
+        }
     }
 }
