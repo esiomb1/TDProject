@@ -4,15 +4,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary", "Class Library\ClassLibrary.csproj", "{30029452-BA29-46EB-B9F5-BBF30B1F03B3}"
-	ProjectSection(ProjectDependencies) = postProject
-		{79A5D075-29CF-48BC-A6D7-3414038577AD} = {79A5D075-29CF-48BC-A6D7-3414038577AD}
-	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test Framework", "Test Framework\Test Framework.csproj", "{77CDFFF9-8B9D-4B4C-BB06-9330A027136D}"
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WebSite2", "WebSite2\", "{79A5D075-29CF-48BC-A6D7-3414038577AD}"
 	ProjectSection(WebsiteProperties) = preProject
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		ProjectReferences = "{30029452-ba29-46eb-b9f5-bbf30b1f03b3}|Class Library.dll;"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_32957"
 		Debug.AspNetCompiler.PhysicalPath = "WebSite2\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_32957\"
@@ -30,6 +28,9 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WebSite2", "WebSite2\", "{7
 		VWDPort = "32957"
 		SlnRelativePath = "WebSite2\"
 		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+	ProjectSection(ProjectDependencies) = postProject
+		{30029452-BA29-46EB-B9F5-BBF30B1F03B3} = {30029452-BA29-46EB-B9F5-BBF30B1F03B3}
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "App_data", "App_data", "{2F4689A0-E604-4CA6-BBB9-75918424BACF}"

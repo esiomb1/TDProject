@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Class_Library;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -19,17 +20,17 @@ public partial class eResultsPAge : System.Web.UI.Page
 
     protected void btnGo_Click(object sender, EventArgs e)
     {
-       // clsWidgetCollection Bookings = new clsWidgetCollection();
-     //   Bookings.AvailableWidgets(Convert.ToDateTime(txtStartDate.Text), Convert.ToDateTime(txtEndDate.Text));
+        clsWidgetCollection Bookings = new clsWidgetCollection();
+       Bookings.AvailableWidgets(Convert.ToDateTime(txtStartDate.Text), Convert.ToDateTime(txtEndDate.Text));
         Int32 Index = 0;
-     //   Int32 Count = Bookings.Count;
+       Int32 Count = Bookings.Count;
         lstAvailable.Items.Clear();
-     //   while (Index < Count)
+       while (Index < Count)
         {
-       //     String Widget = Bookings.Widgets[Index].Widget;
-           // Int32 WidgetNo = Bookings.Widgets[Index].WidgetNo;
-     //       ListItem NewItem = new ListItem(Widget, WidgetNo.ToString());
-       //     lstAvailable.Items.Add(NewItem);
+           String Widget = Bookings.Widgets[Index].Widget;
+            Int32 WidgetNo = Bookings.Widgets[Index].WidgetNo;
+          ListItem NewItem = new ListItem(Widget, WidgetNo.ToString());
+           lstAvailable.Items.Add(NewItem);
             Index++;
         }
     }
