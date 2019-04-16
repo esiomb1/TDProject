@@ -4,6 +4,8 @@ namespace Class_Library
 {
     public class clsPhoneCustomer
     {
+        
+
         //private data member for the PhoneID
         private int mPhoneCustomerNo;
         public int mCustomerID;
@@ -113,6 +115,11 @@ namespace Class_Library
                 //set the vlaue of the private data member 
                 mPostcode = value;
             }
+        }
+
+        public string Valid(object customerID, object firstName, object surname, object address, object postcode)
+        {
+            return "";
         }
 
         public string Valid(string someAPhoneCustomer)

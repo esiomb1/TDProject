@@ -4,6 +4,7 @@ namespace Class_Library
 {
     public class clsAdministrator
     {
+
         
         //private data member for the Admini ID property
         private int mAdministratorID;
@@ -11,8 +12,7 @@ namespace Class_Library
         private int mPhoneID;
 
         public bool Active { get; set; }
-        public DateTime DateAdded { get; set; }
-        public string CustomerDetails { get; set; }
+    
         public int CustomerID
         {
             get
@@ -87,6 +87,11 @@ namespace Class_Library
 
 
             }
-        }  
+        }
+
+        public string Valid(object administatorID, int customerID, int phoneID)
+        {
+            return "";
+        }
     }
 }
