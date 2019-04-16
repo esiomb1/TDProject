@@ -31,3 +31,14 @@ C:\Users\p16200157\Source\Repos\TDProject\HairCaretesting\obj\Debug\HairCaretest
 C:\Users\p16200157\Source\Repos\TDProject\HairCaretesting\obj\Debug\HairCaretesting.csproj.CopyComplete
 C:\Users\p16200157\Source\Repos\TDProject\HairCaretesting\obj\Debug\Test Framework.dll
 C:\Users\p16200157\Source\Repos\TDProject\HairCaretesting\obj\Debug\Test Framework.pdb
+H:\Desktop\work ne\HairCaretesting\bin\Debug\Test Framework.dll
+H:\Desktop\work ne\HairCaretesting\bin\Debug\Test Framework.pdb
+H:\Desktop\work ne\HairCaretesting\bin\Debug\Class Library.dll
+H:\Desktop\work ne\HairCaretesting\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+H:\Desktop\work ne\HairCaretesting\bin\Debug\Class Library.pdb
+H:\Desktop\work ne\HairCaretesting\bin\Debug\Class Library.dll.config
+H:\Desktop\work ne\HairCaretesting\obj\Debug\HairCaretesting.csprojAssemblyReference.cache
+H:\Desktop\work ne\HairCaretesting\obj\Debug\HairCaretesting.csproj.CoreCompileInputs.cache
+H:\Desktop\work ne\HairCaretesting\obj\Debug\HairCaretesting.csproj.CopyComplete
+H:\Desktop\work ne\HairCaretesting\obj\Debug\Test Framework.dll
+H:\Desktop\work ne\HairCaretesting\obj\Debug\Test Framework.pdb

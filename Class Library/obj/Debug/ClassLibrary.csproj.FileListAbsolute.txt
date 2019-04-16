@@ -70,3 +70,18 @@ C:\Users\p16200157\Source\Repos\TDProject\Class Library\obj\Debug\ClassLibrary.c
 C:\Users\p16200157\Source\Repos\TDProject\Class Library\obj\Debug\ClassLibrary.csproj.CopyComplete
 C:\Users\p16200157\Source\Repos\TDProject\Class Library\obj\Debug\Class Library.dll
 C:\Users\p16200157\Source\Repos\TDProject\Class Library\obj\Debug\Class Library.pdb
+H:\Desktop\work ne\Class Library\bin\Debug\Class Library.dll.config
+H:\Desktop\work ne\Class Library\bin\Debug\Class Library.dll
+H:\Desktop\work ne\Class Library\bin\Debug\Class Library.pdb
+H:\Desktop\work ne\Class Library\bin\Debug\EntityFramework.dll
+H:\Desktop\work ne\Class Library\bin\Debug\System.Data.SQLite.dll
+H:\Desktop\work ne\Class Library\bin\Debug\System.Data.SQLite.EF6.dll
+H:\Desktop\work ne\Class Library\bin\Debug\System.Data.SQLite.Linq.dll
+H:\Desktop\work ne\Class Library\bin\Debug\EntityFramework.xml
+H:\Desktop\work ne\Class Library\bin\Debug\System.Data.SQLite.xml
+H:\Desktop\work ne\Class Library\bin\Debug\System.Data.SQLite.dll.config
+H:\Desktop\work ne\Class Library\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
+H:\Desktop\work ne\Class Library\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+H:\Desktop\work ne\Class Library\obj\Debug\ClassLibrary.csproj.CopyComplete
+H:\Desktop\work ne\Class Library\obj\Debug\Class Library.dll
+H:\Desktop\work ne\Class Library\obj\Debug\Class Library.pdb

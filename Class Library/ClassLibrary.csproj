@@ -103,6 +103,7 @@
     <Compile Include="clsStock.cs" />
     <Compile Include="clsTicket.cs" />
     <Compile Include="clsWidget.cs" />
+    <Compile Include="clsWidgetCollection.cs" />
     <Compile Include="LoginSignUpDataSet.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
