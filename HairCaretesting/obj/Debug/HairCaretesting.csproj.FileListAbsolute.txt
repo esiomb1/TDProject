@@ -53,3 +53,14 @@ H:\Documents\Gitty\HairCaretesting\obj\Debug\HairCaretesting.csproj.CoreCompileI
 H:\Documents\Gitty\HairCaretesting\obj\Debug\HairCaretesting.csproj.CopyComplete
 H:\Documents\Gitty\HairCaretesting\obj\Debug\Test Framework.dll
 H:\Documents\Gitty\HairCaretesting\obj\Debug\Test Framework.pdb
+H:\Desktop\Final clothing project\HairCaretesting\bin\Debug\Test Framework.dll
+H:\Desktop\Final clothing project\HairCaretesting\bin\Debug\Test Framework.pdb
+H:\Desktop\Final clothing project\HairCaretesting\bin\Debug\Class Library.dll
+H:\Desktop\Final clothing project\HairCaretesting\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+H:\Desktop\Final clothing project\HairCaretesting\bin\Debug\Class Library.pdb
+H:\Desktop\Final clothing project\HairCaretesting\bin\Debug\Class Library.dll.config
+H:\Desktop\Final clothing project\HairCaretesting\obj\Debug\HairCaretesting.csprojAssemblyReference.cache
+H:\Desktop\Final clothing project\HairCaretesting\obj\Debug\HairCaretesting.csproj.CoreCompileInputs.cache
+H:\Desktop\Final clothing project\HairCaretesting\obj\Debug\HairCaretesting.csproj.CopyComplete
+H:\Desktop\Final clothing project\HairCaretesting\obj\Debug\Test Framework.dll
+H:\Desktop\Final clothing project\HairCaretesting\obj\Debug\Test Framework.pdb

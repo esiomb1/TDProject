@@ -100,3 +100,18 @@ H:\Documents\Gitty\Class Library\obj\Debug\ClassLibrary.csproj.CoreCompileInputs
 H:\Documents\Gitty\Class Library\obj\Debug\ClassLibrary.csproj.CopyComplete
 H:\Documents\Gitty\Class Library\obj\Debug\Class Library.dll
 H:\Documents\Gitty\Class Library\obj\Debug\Class Library.pdb
+H:\Desktop\Final clothing project\Class Library\bin\Debug\Class Library.dll.config
+H:\Desktop\Final clothing project\Class Library\bin\Debug\Class Library.dll
+H:\Desktop\Final clothing project\Class Library\bin\Debug\Class Library.pdb
+H:\Desktop\Final clothing project\Class Library\bin\Debug\EntityFramework.dll
+H:\Desktop\Final clothing project\Class Library\bin\Debug\System.Data.SQLite.dll
+H:\Desktop\Final clothing project\Class Library\bin\Debug\System.Data.SQLite.EF6.dll
+H:\Desktop\Final clothing project\Class Library\bin\Debug\System.Data.SQLite.Linq.dll
+H:\Desktop\Final clothing project\Class Library\bin\Debug\EntityFramework.xml
+H:\Desktop\Final clothing project\Class Library\bin\Debug\System.Data.SQLite.xml
+H:\Desktop\Final clothing project\Class Library\bin\Debug\System.Data.SQLite.dll.config
+H:\Desktop\Final clothing project\Class Library\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
+H:\Desktop\Final clothing project\Class Library\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+H:\Desktop\Final clothing project\Class Library\obj\Debug\ClassLibrary.csproj.CopyComplete
+H:\Desktop\Final clothing project\Class Library\obj\Debug\Class Library.dll
+H:\Desktop\Final clothing project\Class Library\obj\Debug\Class Library.pdb
