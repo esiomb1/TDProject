@@ -1,0 +1,38 @@
+﻿body {
+    background: #9fbfdf;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 150px;
+    margin-left: 150px;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#menu ul {
+    background-color: #3971ac;
+    list-style: none;
+    text-align: center;
+    padding: 0px 0px 0px 0px;
+}
+
+    #menu ul li {
+        padding-right: 150px;
+        text-align: center;
+        line-height: 35px;
+        display: inline-block;
+    }
+
+
+
+        #menu ul li a {
+            text-decoration: none;
+            color: #ffffff
+        }
+
+h1 {
+    color: white;
+    text-align: center;
+}
