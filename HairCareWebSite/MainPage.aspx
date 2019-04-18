@@ -1,10 +1,6 @@
 ﻿<!DOCTYPE html>
 <script runat="server">
 
-
-    Protected Sub btnGo_Click(sender As Object, e As EventArgs)
-
-    End Sub
 </script>
 
 <html>
@@ -152,7 +148,7 @@ footer {
 <section>
   <nav>
     <ul>
-      <li><a href="MainPage.aspx">Home</a></li>
+      <li><a href="MainPage.aspx">MainPage.aspx</a></li>
       <li><a href="CEOGallery.aspx">CEOGallery</a></li>
       <li><a href="AppointmentPage.aspx">AppointmentPage</a></li>
       <li><a href="Login.aspx">Login</a></li>

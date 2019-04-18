@@ -73,6 +73,8 @@ public class clsBlog
         }
     }
 
+    public int Count { get; set; }
+
     private clsDataConnection dBConnection = new clsDataConnection();
 
     //function for the public validation method needed

@@ -1,39 +1,115 @@
 ﻿<%@ Master Language="C#" %>
-
 <!DOCTYPE html>
-
 <script runat="server">
-    
-</script>
-
-<html>
-<head runat="server">
-<link rel="stylesheet" href="~/css/Main.css">
-    <title>Welcome to CEO Hair Care and Beauty</title>
-</head>
-    <body> 
-    <div >
-        <h1 class="starter">Hello, this our first time meeting so allow me to introduce myself...</h1> 
-        <p> I am the CEO of CEOHairUK</p>
-        <p> CEOHairUK is a UK based hairdressing company that specialises in</p>
-        <li> Wig making</li>
-        <li> Sew in Hairstyles</li>
-        <li> Hair colouring</li>
-        <li> Hair styling</li>
-        <li> Tips for hair growth</li>
-        <li> My own health and lifestyle tips</li>
 
   
-    <asp:ContentPlaceHolder id="head" runat="server">
-    </asp:ContentPlaceHolder>
+</script>
+
+<html lang="en">
+<head>
+<title>Home</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Style the header */
+header {
+  background-color: hotpink;
+  padding: 30px;
+  text-align: center;
+  font-size: 35px;
+  color: white;
+}
+
+/* Container for flexboxes */
+section {
+  display: -webkit-flex;
+  display: flex;
+}
+
+/* Style the navigation menu */
+nav {
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  background: pink;
+  padding: 20px;
+}
+
+/* Style the list inside the menu */
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+/* Style the content */
+article {
+  -webkit-flex: 3;
+  -ms-flex: 3;
+  flex: 3;
+  background-color: #f1f1f1;
+  padding: 10px;
+}
+
+
+
+/* Responsive layout - makes the menu and the content (inside the section) sit on top of each other instead of next to each other */
+    @media (max-width: 600px) {
+        section {
+            -webkit-flex-direction: column;
+            flex-direction: column;
+        }
+
+        h2 {
+            color: pink;
+            text-align: center;
+        }
+    }
+</style>
+</head>
+<body>
+
 
 
     <form id="form1" runat="server">
-   
-        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
-        
-        </asp:ContentPlaceHolder>
-   </div>
+
+
+
+<header>
+  <h2>CEOHAIRUK</h2>
+</header>
+
+<section>
+  <nav>
+    <ul>
+      <li><a href="MainPage.aspx">Home</a></li>
+      <li><a href="CEOGallery.aspx">CEOGallery</a></li>
+      <li><a href="AppointmentPage.aspx">AppointmentPage</a></li>
+      <li><a href="Login.aspx">Login</a></li>
+      <li><a href="SignUp.aspx">SignUp</a></li>
+    </ul>
+  </nav>
+  
+ 
+
+<footer>
+  <p>Footer</p>
+</footer>
+
+        </section>
+        <p>
+            <asp:Button ID="btnLogin" runat="server" OnClick="btnLogin_Click" Text="Log In" />
+        </p>
+        <asp:Button ID="btnSignUp" runat="server" Text="SignUp" />
     </form>
+
 </body>
 </html>
+

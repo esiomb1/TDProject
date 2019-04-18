@@ -69,6 +69,8 @@
     <Compile Include="clsBookingnkk.cs" />
     <Compile Include="clsCinema.cs" />
     <Compile Include="clsCinemaCollection.cs" />
+    <Compile Include="clsComment.cs" />
+    <Compile Include="clsCommentCollection.cs" />
     <Compile Include="clsCustomer.cs" />
     <Compile Include="clsCustomerCollection.cs" />
     <Compile Include="clsCustomernkk.cs" />
