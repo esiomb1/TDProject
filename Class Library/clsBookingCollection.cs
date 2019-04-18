@@ -8,6 +8,6 @@ namespace Class_Library
 {
     class clsBookingCollection
     {
-        //NA ALL BOOKINGS WILL OCCUR ON THE EXTERNAL BOOKING SITE
+        //will have an external link to book apppointments
     }
 }
