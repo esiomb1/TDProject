@@ -1,0 +1,34 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterDefault.master.cs" Inherits="MasterDefault" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <link href="StyleSheet.css" rel="StyleSheet"/>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        
+    <div>
+        <img src="H:\Documents\finalting\PhonesToGoWebsite\Pictures\Untitled.jpg"alt="" style="width: 100%; margin-bottom: 0px;"/>
+<nav id="menu">
+                    <ul>
+                        <li><a href="HomePage.aspx">Home</a></li>
+                        <li><a href="PhonePage.aspx">Phones Page</a></li>
+                        <li><a href="AboutUs.aspx">About Us</a></li>
+                        <li><a href="ContactUs.aspx">Contact Us</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </li>
+                            <asp:Button ID="bntSearch" runat="server" Text="Search" />
+                            <asp:TextBox ID="txtSearch" runat="server"></asp:TextBox>
+                    </ul>
+                </nav>
+
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        trgbgfdfbgfbz
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>
