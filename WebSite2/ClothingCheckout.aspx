@@ -124,7 +124,7 @@ hr {
           <asp:Label ID="Label1" runat="server" Text="Label"></asp:Label>
 &nbsp;Products in your cart<br />
           <br />
-          <asp:GridView ID="GridView1" runat="server" AutoGenerateColumns="False" BackColor="#DEBA84" BorderColor="#DEBA84" BorderStyle="None" BorderWidth="1px" CellPadding="3" CellSpacing="2" OnSelectedIndexChanged="GridView1_SelectedIndexChanged" Width="1437px" OnRowDeleted="GridView1_RowDeleted" OnRowDeleting="GridView1_RowDeleting">
+          <asp:GridView ID="GridView1" runat="server" AutoGenerateColumns="False" BackColor="#DEBA84" BorderColor="#DEBA84" BorderStyle="None" BorderWidth="1px" CellPadding="3" CellSpacing="2" OnSelectedIndexChanged="GridView1_SelectedIndexChanged" Width="1437px" OnRowDeleted="GridView1_RowDeleted" OnRowDeleting="GridView1_RowDeleting" ShowFooter="True">
               <Columns>
                   <asp:BoundField DataField="ProductId" HeaderText="ProductId" />
                   <asp:BoundField DataField="Description" HeaderText="Description" />
@@ -145,7 +145,8 @@ hr {
           </asp:GridView>
           <br />
       </form>
-        <input type="submit" value="Continue to checkout" class="btn"></div>
+        <asp:Button ID="btnConfirm" runat="server" OnClick="btnConfirm_Click" Text="Confirm" />
+      </div>
   </div>
 </asp:Content>
 

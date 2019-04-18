@@ -120,28 +120,20 @@ hr {
       
         <div class="row">
           <div class="col-50">
-            <p>Order Id&nbsp; </p>
-              <p>Order date</p>
+            <p>Order Id&nbsp; 
+                <asp:Label ID="Label7" runat="server" Text="Label"></asp:Label>
+              </p>
+              <p>Order date
+                  <asp:Label ID="Label8" runat="server" Text="Label"></asp:Label>
+              </p>
               <h3>Billing Address</h3>
-            <label for="fname"><i class="fa fa-user"></i> Full Name</label>
-            <input type="text" id="fname" name="firstname" placeholder="John M. Doe">
-            <label for="email"><i class="fa fa-envelope"></i> Email</label>
-            <input type="text" id="email" name="email" placeholder="john@example.com">
-            <label for="adr"><i class="fa fa-address-card-o"></i> Address</label>
-            <input type="text" id="adr" name="address" placeholder="542 W. 15th Street">
-            <label for="city"><i class="fa fa-institution"></i> City</label>
-            <input type="text" id="city" name="city" placeholder="London">
-
-            <div class="row">
-              <div class="col-50">
-                <label for="Area">Area</label>
-                <input type="text" id="Area" name="Area" placeholder="Greater London">
-              </div>
-              <div class="col-50">
-                <label for="zip">Zip</label>
-                <input type="text" id="zip" name="zip" placeholder="10001">
-              </div>
-            </div>
+              <i class="fa fa-user"></i> Full Name
+              <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
+              <br />
+              &nbsp;
+            <i class="fa fa-address-card-o"></i> Address
+              <br />
+&nbsp;<asp:TextBox ID="TextBox2" runat="server"></asp:TextBox>
           </div>
 
           <div class="col-50">
@@ -153,21 +145,20 @@ hr {
               <i class="fa fa-cc-mastercard" style="color:red;"></i>
               <i class="fa fa-cc-discover" style="color:orange;"></i>
                 <img alt="" class="auto-style21" src="images/kisspng-visa-logo-mastercard-credit-card-payment-5b15b13e347986.454908321528148286215.jpg" /><img alt="" class="auto-style22" src="images/American-Express-copy.png" /></div>
-            <label for="cname">Name on Card</label>
-            <input type="text" id="cname" name="cardname" placeholder="John More Doe">
-            <label for="ccnum">Credit card number</label>
-            <input type="text" id="ccnum" name="cardnumber" placeholder="1111-2222-3333-4444">
-            <label for="expmonth">Exp Month</label>
-            <input type="text" id="expmonth" name="expmonth" placeholder="September">
-            <div class="row">
+              Name on Card
+              <asp:TextBox ID="TextBox3" runat="server"></asp:TextBox>
+              <br />
+              Credit card number
+              <br />
+              <asp:TextBox ID="TextBox4" runat="server"></asp:TextBox>
+&nbsp;<div class="row">
               <div class="col-50">
-                <label for="expyear">Exp Year</label>
-                <input type="text" id="expyear" name="expyear" placeholder="2018">
-              </div>
+                  Exp Year
+                  <asp:TextBox ID="TextBox5" runat="server"></asp:TextBox>
+                  <br />
+&nbsp;</div>
               <div class="col-50">
-                <label for="cvv">CVV</label>
-                <input type="text" id="cvv" name="cvv" placeholder="352">
-              </div>
+                &nbsp;</div>
             </div>
           </div>
           
@@ -180,10 +171,11 @@ hr {
           Order<br />
           <br />
 
+
+        <asp:Button ID="btnPlaceOrder" runat="server" Height="46px" Text="PlaceOrder" Width="216px" OnClick="btnPlaceOrder_Click" />
+
+
           <br />
-
-
-        <asp:Button ID="btnPlaceOrder" runat="server" Height="46px" Text="PlaceOrder" Width="216px" />
 
 
         <br />

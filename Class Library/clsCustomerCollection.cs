@@ -9,7 +9,7 @@ namespace Class_Library
     public class clsCustomerCollection
     {
 
-        private List<ClsCustomer> mAllCustomers = new List<ClsCustomer>();
+        private List<clsCustomer> mAllCustomers = new List<clsCustomer>();
 
         public clsCustomerCollection()// public contructor to the class
 
@@ -26,7 +26,7 @@ namespace Class_Library
             while (Index < RecordCount)
             {
                 // create an istance of the customer class 
-                ClsCustomer ACustomer = new ClsCustomer
+                clsCustomer ACustomer = new clsCustomer
                 {
                     // get the customers name 
                     FirstName = DB.DataTable.Rows[Index]["FirstName"].ToString(),
@@ -57,7 +57,7 @@ namespace Class_Library
 
             }
         }
-        public List<ClsCustomer> AllCustomers
+        public List<clsCustomer> AllCustomers
         {// getter send the data to requesting code
             get
             {

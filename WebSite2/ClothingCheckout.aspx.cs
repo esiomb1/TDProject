@@ -162,5 +162,10 @@ public partial class ClothingCheckout : System.Web.UI.Page
         Session["buyitems"] = dt;
         Response.Redirect("AddToCart.aspx");
     }
+
+    protected void btnConfirm_Click(object sender, EventArgs e)
+    {
+        Response.Redirect("Place Order.aspx");
+    }
 }
    
