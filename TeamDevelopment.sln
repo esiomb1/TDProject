@@ -126,8 +126,9 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "PhonesToGoWebsite", "\\vfil
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "1949"
-		SlnRelativePath = "\\vfiler2.lec-admin.dmu.ac.uk\Home7\P16200157\Documents\finalting\PhonesToGoWebsite\"
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EliteAir", "EliteAir\EliteAir.csproj", "{984249A2-B29D-49E2-A0DF-8A83E474E842}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -175,6 +176,10 @@ Global
 		{35D183F4-E0CB-464E-9F54-2F8A032D1D09}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{35D183F4-E0CB-464E-9F54-2F8A032D1D09}.Release|Any CPU.ActiveCfg = Debug|Any CPU
 		{35D183F4-E0CB-464E-9F54-2F8A032D1D09}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{984249A2-B29D-49E2-A0DF-8A83E474E842}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{984249A2-B29D-49E2-A0DF-8A83E474E842}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{984249A2-B29D-49E2-A0DF-8A83E474E842}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{984249A2-B29D-49E2-A0DF-8A83E474E842}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

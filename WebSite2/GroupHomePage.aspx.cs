@@ -26,12 +26,12 @@ public partial class GroupHomePage : System.Web.UI.Page
 
     protected void btnEileensSite_Click(object sender, EventArgs e)
     {
-
+        Response.Redirect( "EliteAir.SearchForFlight");
     }
 
 
     protected void btnCassandrasSite_Click(object sender, EventArgs e)
     {
-        Response.Redirect("Default");
+        Response.Redirect("HairCareWebSite.MainPage");
     }
 }

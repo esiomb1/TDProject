@@ -115,3 +115,7 @@ H:\Desktop\Final clothing project\Class Library\obj\Debug\ClassLibrary.csproj.Co
 H:\Desktop\Final clothing project\Class Library\obj\Debug\ClassLibrary.csproj.CopyComplete
 H:\Desktop\Final clothing project\Class Library\obj\Debug\Class Library.dll
 H:\Desktop\Final clothing project\Class Library\obj\Debug\Class Library.pdb
+H:\Desktop\DeadlineDay\Class Library\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
+H:\Desktop\DeadlineDay\Class Library\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+H:\Desktop\DeadlineDay\Class Library\obj\Debug\Class Library.dll
+H:\Desktop\DeadlineDay\Class Library\obj\Debug\Class Library.pdb

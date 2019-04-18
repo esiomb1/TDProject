@@ -140,3 +140,24 @@ H:\Documents\Gitty\Test Framework\obj\Debug\Test Framework.csproj.CoreCompileInp
 H:\Documents\Gitty\Test Framework\obj\Debug\Test Framework.csproj.CopyComplete
 H:\Documents\Gitty\Test Framework\obj\Debug\Test Framework.dll
 H:\Documents\Gitty\Test Framework\obj\Debug\Test Framework.pdb
+H:\Desktop\DeadlineDay\Test Framework\bin\Debug\Test Framework.dll.config
+H:\Desktop\DeadlineDay\Test Framework\bin\Debug\Test Framework.dll
+H:\Desktop\DeadlineDay\Test Framework\bin\Debug\Test Framework.pdb
+H:\Desktop\DeadlineDay\Test Framework\bin\Debug\Class Library.dll
+H:\Desktop\DeadlineDay\Test Framework\bin\Debug\EntityFramework.dll
+H:\Desktop\DeadlineDay\Test Framework\bin\Debug\EntityFramework.SqlServer.dll
+H:\Desktop\DeadlineDay\Test Framework\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+H:\Desktop\DeadlineDay\Test Framework\bin\Debug\System.Data.SQLite.dll
+H:\Desktop\DeadlineDay\Test Framework\bin\Debug\System.Data.SQLite.EF6.dll
+H:\Desktop\DeadlineDay\Test Framework\bin\Debug\System.Data.SQLite.Linq.dll
+H:\Desktop\DeadlineDay\Test Framework\bin\Debug\Class Library.pdb
+H:\Desktop\DeadlineDay\Test Framework\bin\Debug\Class Library.dll.config
+H:\Desktop\DeadlineDay\Test Framework\bin\Debug\EntityFramework.xml
+H:\Desktop\DeadlineDay\Test Framework\bin\Debug\EntityFramework.SqlServer.xml
+H:\Desktop\DeadlineDay\Test Framework\bin\Debug\System.Data.SQLite.xml
+H:\Desktop\DeadlineDay\Test Framework\bin\Debug\System.Data.SQLite.dll.config
+H:\Desktop\DeadlineDay\Test Framework\obj\Debug\Test Framework.csprojAssemblyReference.cache
+H:\Desktop\DeadlineDay\Test Framework\obj\Debug\Test Framework.csproj.CoreCompileInputs.cache
+H:\Desktop\DeadlineDay\Test Framework\obj\Debug\Test Framework.csproj.CopyComplete
+H:\Desktop\DeadlineDay\Test Framework\obj\Debug\Test Framework.dll
+H:\Desktop\DeadlineDay\Test Framework\obj\Debug\Test Framework.pdb

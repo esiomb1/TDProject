@@ -16,7 +16,7 @@ namespace Class_Library
             // create an instance of the data connection 
             clsDataConnection DB = new clsDataConnection();
             //execute the stored procedure to geth the list of data 
-            DB.Execute("sproc_tblCustomer_SelectAll");
+            DB.Execute("sproc_tbleCustomers_SelectAll");
             //get the count of record 
             Int32 RecordCount = DB.Count;
             //set up the indx for the loop 
@@ -38,6 +38,58 @@ namespace Class_Library
 
 
         }
+        //private data member for the list
+        List<clseCustomer> mCustomerList = new List<clseCustomer>();
+        //private data member thisAddress
+        clseCustomer mThisCustomer= new clseCustomer();
+        public List<clseCustomer> CustomerList
+        {
+            get
+            {
+                //return the private data
+                return mCustomerList;
+            }
+            set
+            {
+                //set the private data
+                mCustomerList = value;
+            }
+        }
+
+   
+
+        void PopulateArray(clsDataConnection DB)
+        {
+            //populates the array list based on the data table in the parameter DB
+            //var for the index
+            Int32 Index = 0;
+            //var to store the record count
+            Int32 RecordCount;
+            //get the count of records
+            RecordCount = DB.Count;
+            //clear the private array list
+            mCustomerList = new List<clseCustomer>();
+            //while there are records to process
+            while (Index < RecordCount)
+            {
+                //create a blank address
+                clseCustomer ACustomer = new clseCustomer();
+                //read in the fields from the current record
+                ACustomer.Active = Convert.ToBoolean(DB.DataTable.Rows[Index]["Active"]);
+                ACustomer.CustomerNo = Convert.ToInt32(DB.DataTable.Rows[Index]["CustomerNo"]);
+                ACustomer.FirstName = Convert.ToString(DB.DataTable.Rows[Index]["FirstName"]);
+                ACustomer.LastName = Convert.ToString(DB.DataTable.Rows[Index]["LastName"]);
+                ACustomer.Address = Convert.ToString(DB.DataTable.Rows[Index]["Address"]);
+                ACustomer.PostCode = Convert.ToString(DB.DataTable.Rows[Index]["PostCode"]);
+                ACustomer.Mobile = Convert.ToString(DB.DataTable.Rows[Index]["Mobile"]);
+
+                //add the record to the private data mamber
+                mCustomerList.Add(ACustomer);
+                //point at the next record
+                Index++;
+            }
+        }
+
 
 
         public int Count
@@ -68,5 +120,52 @@ namespace Class_Library
                 mAllCustomers = value;
             }
         }
+        // public property for This Customer
+       public clseCustomer ThisCustomer
+        {
+            get
+            {  //return the private data
+                return mThisCustomer;
+
+            }
+
+            set
+            {  //set the private data
+                mThisCustomer = value;
+            }
+        }
+
+        public int Add()
+        {
+            //adds a new record to the database based on the values of thisAddress
+            //connect to the database
+            clsDataConnection DB = new clsDataConnection();
+            //set the parameters for the stored procedure
+            DB.AddParameter("@CustomerNo", mThisCustomer.CustomerNo);
+            DB.AddParameter("@FirstName", mThisCustomer.FirstName);
+            DB.AddParameter("@LastName", mThisCustomer.LastName);
+            DB.AddParameter("@PostCode", mThisCustomer.PostCode);
+            DB.AddParameter("@Address", mThisCustomer.Address);
+            DB.AddParameter("@Mobile", mThisCustomer.Mobile);
+            //execute the query returning the primary key value
+            return DB.Execute("sproc_tbleCustomer_Insert");
+        }
+
+        public void Delete()
+        {
+            //deletes the record pointed to by thisAddress
+            //connect to the database
+            clsDataConnection DB = new clsDataConnection();
+            //set the parameters for the stored procedure
+            DB.AddParameter("@CustomerNo", mThisCustomer.CustomerNo);
+            //execute the stored procedure
+            DB.Execute("sproc_tbleCustomer_Delete");
+        }
+
+
+
+
+
+
     }
 }

@@ -50,7 +50,7 @@ namespace Test_Framework
             TestItem.ArrivalDestination = "LHR";
             TestItem.DepartureTime = Convert.ToDateTime("12:00");
             TestItem.ArrivalTime = Convert.ToDateTime("22:00");
-            TestItem.Duration = "6:00";
+            TestItem.Duration = Convert.ToDateTime("06:00");
             TestItem.Cost = "456";
             //add the item to the test list
             TestList.Add(TestItem);
@@ -58,6 +58,28 @@ namespace Test_Framework
             Flights.AllFlights = TestList;
             //test to see that the two values are the same
             Assert.AreEqual(Flights.AllFlights, TestList);
+        }
+
+        [TestMethod]
+        public void ThisAddressPropertyOK()
+        {
+            //create an instance of the class we want to create
+            clsFlightsCollection AllFlights = new clsFlightsCollection();
+            //create the item of test data
+            clsFlights TestItem = new clsFlights();
+            //set the properties of the test object
+            TestItem.FlightNo = 4375;
+            TestItem.DepartureDate = Convert.ToDateTime("05/06/2019");
+            TestItem.ArrivalDate = Convert.ToDateTime("05/06/2019");
+            TestItem.DepartureDestination = "JFK International";
+            TestItem.ArrivalDestination = "LHR";
+            TestItem.DepartureTime = Convert.ToDateTime("12:00");
+            TestItem.ArrivalTime = Convert.ToDateTime("22:00");
+            TestItem.Duration = Convert.ToDateTime("06:00"); 
+            TestItem.Cost = "456";
+            //assign the data to the property
+            AllFlights.ThisFlight = TestItem;
+            Assert.AreEqual(AllFlights.ThisFlight, TestItem);
         }
 
 

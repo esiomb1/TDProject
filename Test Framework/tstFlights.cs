@@ -15,7 +15,7 @@ namespace Test_Framework
             // test to see that it exists 
             Assert.IsNotNull(AFlight);
         }
-
+        // flight property okay
 
         [TestMethod]
         //used to test the Flights property of the class
@@ -153,7 +153,7 @@ namespace Test_Framework
 
         }
 
-
+        // flight property okay
         [TestMethod]
         //test that the Customer validation throws an error when Customer is blank
         public void FindMethodOK()

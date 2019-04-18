@@ -12,10 +12,11 @@ namespace Class_Library
         public string LastName { get; set; }
         public string Address { get; set; }
         public string PostCode { get; set; }
-        public string CardNo { get; set; }
+        public Int32 CardNo { get; set; }
         public string ExpiryDate { get; set; }
         public string CVSNo{ get; set; }
         public string Booking { get; set; }
+        public string Customer { get; set; }
 
         public string Valid(string someBooking)
         {

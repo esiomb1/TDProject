@@ -11,6 +11,11 @@ namespace Class_Library
 
        
         private List<clsFlights> mAllFlights = new List<clsFlights>();
+        //private data member thisAddress
+        clsFlights mThisFlight = new clsFlights();
+
+      //  /private data member for the list
+        List<clsFlights> mFlightsList = new List<clsFlights>();
 
         public clsFlightsCollection()// public contructor to the class
 
@@ -37,6 +42,87 @@ namespace Class_Library
             }
 
 
+        }
+
+     
+        void PopulateArray(clsDataConnection DB)
+        {
+            //populates the array list based on the data table in the parameter DB
+            //var for the index
+            Int32 Index = 0;
+            //var to store the record count
+            Int32 RecordCount;
+            //get the count of records
+            RecordCount = DB.Count; clsFlights
+          //clear the private array list
+          mFlightsList = new List<clsFlights>();
+            //while there are records to process
+            while (Index < RecordCount)
+            {
+                //create a blank address
+                clsFlights AFlight = new clsFlights();
+                //read in the fields from the current record
+
+                AFlight.FlightNo = Convert.ToInt32(DB.DataTable.Rows[Index]["FlightNo"]);
+                AFlight.DepartureAirport = Convert.ToString(DB.DataTable.Rows[Index]["DepartureAirport"]);
+                AFlight.ArrivalDestination = Convert.ToString(DB.DataTable.Rows[Index]["ArrivalDestination"]);
+                AFlight.DepartureTime = Convert.ToDateTime(DB.DataTable.Rows[Index]["DepartureTime"]);
+                AFlight.ArrivalTime = Convert.ToDateTime(DB.DataTable.Rows[Index]["ArrivalTime"]);
+                AFlight.Cost = Convert.ToString(DB.DataTable.Rows[Index]["Cost"]);
+                AFlight.Duration = Convert.ToDateTime(DB.DataTable.Rows[Index]["Duration"]);
+                //add the record to the private data mamber
+                mFlightsList.Add(AFlight);
+                //point at the next record
+                Index++;
+            }
+        }
+
+        public int Add()
+        {
+            //adds a new record to the database based on the values of thisAddress
+            //connect to the database
+            clsDataConnection DB = new clsDataConnection();
+            //set the parameters for the stored procedure
+            DB.AddParameter("@FlightNo", mThisFlight.FlightNo);
+            DB.AddParameter("@DepartureAirport", mThisFlight.DepartureAirport);
+            DB.AddParameter("@ArrivalDestination", mThisFlight.ArrivalDestination);
+            DB.AddParameter("@DepartureTime", mThisFlight.DepartureTime);
+            DB.AddParameter("@ArrivalTime ", mThisFlight.ArrivalTime);
+            DB.AddParameter("@Cost", mThisFlight.Cost);
+            DB.AddParameter("@Duration", mThisFlight.Duration);
+            //execute the query returning the primary key value
+            return DB.Execute("sproc_tblFlights_Insert");
+        }
+
+
+        //public property for the address list
+        public List<clsFlights> FlightsList
+        {
+            get
+            {
+                //return the private data
+                return mFlightsList;
+            }
+            set
+            {
+                //set the private data
+                mFlightsList = value;
+            }
+        }
+
+
+        public clsFlights ThisFlight
+        {
+            get
+            {
+                //return the private data
+                return mThisFlight;
+            }
+            set
+            {
+                //set the private data
+                mThisFlight = value;
+            }
         }
 
 
@@ -108,6 +194,11 @@ namespace Class_Library
                 Index++; 
             }
         }
+
+
+
+
+
     }
 
  }
