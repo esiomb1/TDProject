@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Class_Library
 {
-    class clsPaymentCollection
+    public class clsPaymentCollection
     {
+        //payments will be on the external  booking site 
     }
 }

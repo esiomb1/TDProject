@@ -8,5 +8,6 @@ namespace Class_Library
 {
     class clsBookingCollection
     {
+        //na, all bookings will be taken on the external bookign site
     }
 }

@@ -1,16 +1,15 @@
-﻿<%@ Master Language="C#" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="CEOGallery.aspx.cs" Inherits="MainPage" %>
+
 <!DOCTYPE html>
 <script runat="server">
 
-    protected void btnLogin_Click(object sender, EventArgs e)
-    {
-        Response.Redirect("login.aspx");
-    }
+
+
 </script>
 
 <html lang="en">
 <head>
-<title>Home</title>
+<title>Gallery</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -61,29 +60,25 @@ article {
   padding: 10px;
 }
 
-
+/* Style the footer */
+footer {
+  background-color: pink;
+  padding: 10px;
+  text-align: center;
+  color: white;
+}
 
 /* Responsive layout - makes the menu and the content (inside the section) sit on top of each other instead of next to each other */
-    @media (max-width: 600px) {
-        section {
-            -webkit-flex-direction: column;
-            flex-direction: column;
-        }
-
-        h2 {
-            color: pink;
-            text-align: center;
-        }
-    }
+@media (max-width: 600px) {
+  section {
+    -webkit-flex-direction: column;
+    flex-direction: column;
+  }
+}
 </style>
 </head>
+
 <body>
-
-
-
-    <form id="form1" runat="server">
-
-
 
 <header>
   <h2>CEOHAIRUK</h2>
@@ -100,19 +95,7 @@ article {
     </ul>
   </nav>
   
- 
+</section>
 
-<footer>
-  <p>Footer</p>
-</footer>
 
-        </section>
-        <p>
-            <asp:Button ID="btnLogin" runat="server" OnClick="btnLogin_Click" Text="Log In" />
-        </p>
-        <asp:Button ID="btnSignUp" runat="server" Text="SignUp" />
-    </form>
-
-</body>
-</html>
-
+ <title>The CEO Gallery</title>

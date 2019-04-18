@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Class_Library
 {
-    class clsBlogCollection
+    public class clsBlogCollection
     {
 
         ///this class contains code allowing us to manipulate the blog
@@ -93,14 +93,19 @@ namespace Class_Library
             //execute the stored procedure to delete the address
             dBConnection.Execute("sproc_tblBlog_FilterByBlogNo");
         }
+
         ///this function defines the public property Count
-        public Int32 Count
+        public int Count
         ///it returns the count of records currently in QueryResults
         {
             get
             {
                 //return the count of records
-                return dBConnection.Count;
+                return mThisBlog.Count;
+            }
+            set
+            {
+                //assign the incoming value to the privae member
             }
         }
 
@@ -127,6 +132,7 @@ namespace Class_Library
                     //add the blog to the list
                     mBlogList.Add(NewBlog);
                 }
+
                 //return the list of blog numbers
                 return mBlogList;
             }
